@@ -3,27 +3,23 @@
   "slides": [
     {
       "type": "text",
-      "content": "Welcome to Lesson 3: Numbers in German (Zahlen)."
+      "content": "Welcome to Lesson 3: Numbers in German (Zahlen).  <br> <p><strong> In German, we can learn millions of numbers by learning only 17 German words </p> "
     },
     {
       "type": "text",
-      "content": "Numbers from 1 to 10 in German:\n1 = eins\n2 = zwei\n3 = drei\n4 = vier\n5 = fünf\n6 = sechs\n7 = sieben\n8 = acht\n9 = neun\n10 = zehn"
+      "content": "<h2> <Stronger> Here are the first 13 of the 17 </h2> Numbers from 0 to 10 in German:\n0 = null \n1 = eins\n2 = zwei\n3 = drei\n4 = vier\n5 = fünf\n6 = sechs\n7 = sieben\n8 = acht\n9 = neun\n10 = zehn \n11 = elf \n12 = zwolf"
     },
     {
       "type": "text",
-      "content": "Numbers from 11 to 20:\n11 = elf\n12 = zwölf\n13 = dreizehn\n14 = vierzehn\n15 = fünfzehn\n16 = sechzehn\n17 = siebzehn\n18 = achtzehn\n19 = neunzehn\n20 = zwanzig"
+      "content": "<strong> Numbers from 13 to 19 </strong> We will only add <strong> Zehn </strong> which means 10 to the number. The number at ones place comes first and then the tens place. <br> For Example : Thirteen is written as drei (3) + zehn (10) \n13 = dreizehn\n14 = vierzehn\n15 = fünfzehn\n16 = sechzehn (notice minor change, this is just to make the word sound more appropriate)\n17 = siebzehn (notice minor change, this is just to make the word sound more appropriate) \n18 = achtzehn\n19 = neunzehn"
     },
     {
-      "type": "quiz",
-      "question": "What is the German word for 5?",
-      "options": ["fünf", "vier", "sieben"],
-      "answer": "fünf"
+      "type" : "text",
+      "content": "<strong> 20 (14th of the 17) and the Numbers in multiples of 10 </strong> <br>  20= zwonzig <br>  All numbers in multiples of 10 in German only add <strong>Zig</strong> at the end  <br> 30 = drei+zig = dreizig <br> 40 = vierzig <br> 50 = fünfzig <br> 60 = sechzig (notice difference) <br> 70 = siebzig (notice difference) <br> 80 = achtzig <br> 90 = neunzig "
     },
     {
-      "type": "quiz",
-      "question": "What is 'dreizehn' in English?",
-      "options": ["13", "3", "30"],
-      "answer": "13"
+      "type": "text",
+      "content" : "<strong> Numbers like 21, 22 and so on..</strong> <br> For numbers 21-29 or 31-39 and so on we write the number at ones place with 20 or 30 and so on  <br> For Example : <br> 21 = eins (1) + und + zwonzig (20) = einundzwonzig <br> 22= zweiundzwanzig <br> 34 = vierunddreizig <br> 77 = siebenundsiebzig <br> 86 = sechsundachtzig  "
     },
     {
       "type": "text",
