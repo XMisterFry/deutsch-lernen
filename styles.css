@@ -19,6 +19,13 @@ header {
   font-size: 1.5rem;
 }
 
+.topdiv {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  gap: 10px;
+}
+
 .container {
   display: flex;
   flex: 1;
