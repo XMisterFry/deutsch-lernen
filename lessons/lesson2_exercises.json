@@ -1,0 +1,35 @@
+{
+    "exercises" :
+    [
+  {
+    "question": "How is 'Sonne' pronounced?",
+    "answer": "Zonne",
+    "options": ["Sonne", "Zonne", "Sohneh"]
+  },
+  {
+    "question": "How is 'machen' pronounced?",
+    "answer": "makhen",
+    "options": ["machen", "makhen", "maschen"]
+  },
+  {
+    "question": "How is 'billig' pronounced?",
+    "answer": "billish",
+    "options": ["billig", "billish", "billik"]
+  },
+  {
+    "question": "How is 'suchen' pronounced?",
+    "answer": "sushen",
+    "options": ["suchen", "sushen", "sukhen"]
+  },
+  {
+    "question": "How is 'wichtig' pronounced?",
+    "answer": "wichtish",
+    "options": ["wichtig", "wichtish", "wichtik"]
+  },
+  {
+    "question": "How is 'Sie' pronounced?",
+    "answer": "Zee",
+    "options": ["See", "Zee", "Sigh"]
+  }
+]
+}

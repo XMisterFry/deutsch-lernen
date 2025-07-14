@@ -93,16 +93,50 @@ async function loadExercise() {
   }
 }
 
+// function renderExercise() {
+//   const container = document.getElementById("exerciseContainer");
+//   const ex = exercises[currentExercise];
+
+//   container.innerHTML = `
+  
+//   <h2 style="margin-bottom: 1rem;">✍️ Lesson Exercise</h2>
+
+//     <div class="exercise-slide">
+//       <p><strong>Exercise ${currentExercise + 1}:</strong> ${ex.question}</p>
+//       <input type="text" id="exerciseInput" placeholder="Type your answer here" />
+//       <div id="exerciseFeedback" class="feedback"></div>
+
+//       <div class="nav-buttons">
+//         <button onclick="prevExercise()" ${currentExercise === 0 ? 'disabled' : ''}>Previous</button>
+//         <button onclick="nextExercise()">Next</button>
+//       </div>
+//     </div>
+//   `;
+
+// }
 function renderExercise() {
   const container = document.getElementById("exerciseContainer");
   const ex = exercises[currentExercise];
 
+  let optionsHTML = "";
+  if (ex.options && ex.options.length > 0) {
+    optionsHTML = `
+      <div class="exercise-options" style="margin-bottom: 10px;">
+        ${ex.options.map(opt => `
+          <button class="option-btn" onclick="document.getElementById('exerciseInput').value='${opt}'">${opt}</button>
+        `).join("")}
+      </div>
+    `;
+  }
+
   container.innerHTML = `
-  
-  <h2 style="margin-bottom: 1rem;">✍️ Lesson Exercise</h2>
+    <h2 style="margin-bottom: 1rem;">✍️ Lesson Exercise</h2>
 
     <div class="exercise-slide">
       <p><strong>Exercise ${currentExercise + 1}:</strong> ${ex.question}</p>
+
+      ${optionsHTML}
+
       <input type="text" id="exerciseInput" placeholder="Type your answer here" />
       <div id="exerciseFeedback" class="feedback"></div>
 
@@ -113,6 +147,7 @@ function renderExercise() {
     </div>
   `;
 }
+
 function nextExercise() {
   const input = document.getElementById("exerciseInput").value.trim().toLowerCase();
   const correct = exercises[currentExercise].answer.toLowerCase();

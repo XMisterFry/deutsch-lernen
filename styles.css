@@ -26,6 +26,16 @@ header {
   gap: 10px;
 }
 
+.mainContainer {
+  padding: 2rem;
+  max-width: 800px;
+  font-family: sans-serif;
+  line-height: 1.6;
+
+  margin: auto;
+  background: #f9f9f9;
+}
+
 .container {
   display: flex;
   flex: 1;
@@ -72,7 +82,7 @@ header {
   background: white;
   padding: 2rem;
   border-radius: 12px;
-  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
   font-size: 1.1rem;
   line-height: 1.6;
 }
@@ -146,7 +156,7 @@ ul li button:hover {
   background: #fff;
   padding: 2rem;
   border-radius: 12px;
-  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
   margin-bottom: 2rem;
 }
 
@@ -184,3 +194,17 @@ ul li button:hover {
   background-color: #0f3460;
 }
 
+.option-btn {
+  margin: 4px;
+  padding: 8px 14px;
+  font-size: 1rem;
+  border: none;
+  background-color: #eee;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.option-btn:hover {
+  background-color: #ddd;
+}
