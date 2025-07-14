@@ -1,0 +1,53 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German: I drink tea",
+      "answer": "ich trinke tee"
+    },
+    {
+      "question": "Translate to German: You play cricket",
+      "answer": "du spielst cricket"
+    },
+    {
+      "question": "Translate to German: He cooks Pasta",
+      "answer": "er kocht pasta"
+    },
+    {
+      "question": "Translate to German: We learn",
+      "answer": "wir lernen"
+    },
+    {
+      "question": "Translate to German: They sing",
+      "answer": "sie singen"
+    },
+    
+    {
+      "question": "Fill in the blank: Ich ______ Brot. ",
+      "answer": "esse"
+    },
+    {
+      "question": "Fill in the blank: Du ______ Fußball. ",
+      "answer": "spielst"
+    },
+    {
+      "question": "Fill in the blank: Er ______ Pasta. ",
+      "answer": "kocht"
+    },
+    {
+      "question": "Fill in the blank: Wir ______ Deutsch.",
+      "answer": "lernen"
+    },
+    {
+      "question": "Fill in the blank: Sie ______ ein Lied. ",
+      "answer": "singen"
+    },
+    {
+      "question": "Translate to German: I sing Macarena",
+      "answer": "ich singe macarena"
+    },
+    {
+      "question": "Translate to German: He plays cricket",
+      "answer": "er spielt cricket "
+    }
+  ]
+}

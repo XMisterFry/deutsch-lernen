@@ -1,0 +1,33 @@
+{
+  "title": "Lesson 3: Numbers (Zahlen)",
+  "slides": [
+    {
+      "type": "text",
+      "content": "Welcome to Lesson 3: Numbers in German (Zahlen)."
+    },
+    {
+      "type": "text",
+      "content": "Numbers from 1 to 10 in German:\n1 = eins\n2 = zwei\n3 = drei\n4 = vier\n5 = fünf\n6 = sechs\n7 = sieben\n8 = acht\n9 = neun\n10 = zehn"
+    },
+    {
+      "type": "text",
+      "content": "Numbers from 11 to 20:\n11 = elf\n12 = zwölf\n13 = dreizehn\n14 = vierzehn\n15 = fünfzehn\n16 = sechzehn\n17 = siebzehn\n18 = achtzehn\n19 = neunzehn\n20 = zwanzig"
+    },
+    {
+      "type": "quiz",
+      "question": "What is the German word for 5?",
+      "options": ["fünf", "vier", "sieben"],
+      "answer": "fünf"
+    },
+    {
+      "type": "quiz",
+      "question": "What is 'dreizehn' in English?",
+      "options": ["13", "3", "30"],
+      "answer": "13"
+    },
+    {
+      "type": "text",
+      "content": "Good job! You’ve completed Lesson 3 on Numbers!"
+    }
+  ]
+}

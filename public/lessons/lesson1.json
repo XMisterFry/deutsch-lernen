@@ -1,0 +1,43 @@
+{
+  "slides": [
+    {
+      "type": "text",
+      "content": "<h3>Verb Conjugation in German</h3><p>Just like in English, German verbs change depending on the subject (I, you, he, etc). This is called <strong>conjugation</strong>.</p>"
+    },
+    {
+  "type": "text",
+  "content": "<h3>German Subject Pronouns</h3>\n<p>To conjugate verbs, you need to know the German words for <strong>I, you, he, we, they</strong>:</p>\n<ul>\n  <li><strong>ich</strong> – I</li>\n  <li><strong>du</strong> – you (informal)</li>\n  <li><strong>er</strong> – he</li>\n  <li><strong>wir</strong> – we</li>\n  <li><strong>sie</strong> – they</li>\n</ul>"
+},
+
+    {
+  "type": "text",
+  "content": "<h3>Example Verb: <em>trinken</em> (to drink)</h3>\n<p>To conjugate a verb in German, we remove the <strong>'-en'</strong> ending and add a new ending based on the pronoun. Let’s see how it works for <em>trinken</em>:</p>\n<ul>\n  <li><strong>ich</strong> – trink + <strong>e</strong> = <strong>ich trinke</strong> (I drink)</li>\n  <li><strong>du</strong> – trink + <strong>st</strong> = <strong>du trinkst</strong> (you drink)</li>\n  <li><strong>er</strong> – trink + <strong>t</strong> = <strong>er trinkt</strong> (he drinks)</li>\n  <li><strong>wir</strong> – trink + <strong>en</strong> = <strong>wir trinken</strong> (we drink)</li>\n  <li><strong>sie</strong> – trink + <strong>en</strong> = <strong>sie trinken</strong> (they drink)</li>\n</ul>\n<p>This rule works for most regular German verbs!</p>"
+},
+
+    {
+      "type": "text",
+      "content": "<h3>Notice the endings:</h3><p>The verb stem is <strong>trink-</strong>. We just add different endings depending on the pronoun.</p><br>\n<ul>\n<li>ich → <strong>-e</strong></li>\n<li>du → <strong>-st</strong></li>\n<li>er/sie/es → <strong>-t</strong></li>\n<li>wir → <strong>-en</strong></li>\n<li>sie → <strong>-en</strong></li>\n</ul>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>More Verbs</h3><p>These endings are used for most regular verbs too:</p><ul>\n<li><strong>spielen</strong> (to play): ich spiele, du spielst, er spielt...</li>\n<li><strong>kochen</strong> (to cook): ich koche, du kochst, er kocht...</li>\n<li><strong>lernen</strong> (to learn): ich lerne, du lernst, er lernt...</li>\n</ul>"
+    },
+ {
+  "type": "text",
+  "content": "<h3>Listen and Repeat</h3>\n<p>Click the 🔊 button to hear all five forms of <em>trinken</em> one after another:</p>\n<p><strong>ich trinke, du trinkst, er trinkt, wir trinken, sie trinken</strong></p>\n<button onclick=\"speakGerman('ich trinke, du trinkst, er trinkt, wir trinken, sie trinken')\">🔊 Play All</button>\n<p>Repeat each phrase aloud as you listen!</p>"
+}
+
+
+
+,
+
+    {
+      "type": "text",
+      "content": "<h3>Irregular Verbs</h3><p>Some common verbs are irregular. For example:</p><br>\n<ul>\n<li><strong>essen</strong> (to eat): ich esse, <strong>du isst</strong>, <strong>er isst</strong></li>\n<li><strong>sein</strong> (to be): ich bin, du bist, er ist...</li>\n</ul>\n<p>We'll study these more in future lessons.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Now You Try!</h3><p>Click the <strong>Start Exercise</strong> button below to practice verb conjugation.</p>"
+    }
+  ]
+}

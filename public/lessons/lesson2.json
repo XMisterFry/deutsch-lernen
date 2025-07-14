@@ -1,0 +1,27 @@
+{
+  "title": "Lesson 2: Alphabets",
+  "slides": [
+    {
+      "type": "text",
+      "content": "Welcome to Lesson 2: The German Alphabets (Das Alphabet)."
+    },
+    {
+      "type": "text",
+      "content": "German alphabets have 26 standard letters like English, plus 4 extra characters:<br>  ä <br> ö<br> ü<br> and ß."
+    },
+    {
+      "type": "text",
+      "content": "A = ah, B = beh, C = tseh, D = deh, ... Z = tset."
+    },
+    {
+      "type": "quiz",
+      "question": "What is the pronunciation of 'J' in German?",
+      "options": ["yot", "jot", "jee"],
+      "answer": "yot"
+    },
+    {
+      "type": "text",
+      "content": "Correct answer: A. 'J' in German is pronounced 'yot'."
+    }
+  ]
+}

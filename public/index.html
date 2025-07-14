@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Deutsch Lernen</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    Deutsch Lernen
+  </header>
+
+  <div class="content">
+    <!-- Dropdown stays visible at top -->
+    <div class="lesson-selector">
+      <label for="lessonSelect">Choose a Lesson:</label>
+      <select id="lessonSelect" onchange="loadLesson(this.value)">
+        <option value="">-- Select --</option>
+        <option value="1">Lesson 1: A1 Verb Conjugation</option>
+        <option value="2">Lesson 2: A1 Alphabets</option>
+        <option value="3">Lesson 3: A1 Numbers</option>
+
+      </select>
+    </div>
+
+    <!-- Only this part will be replaced by JS -->
+    <h2 style="margin-top: 1rem;">📘 Learn First, then Exercise</h2>
+    <div id="lessonDisplay">
+      
+    </div>
+    
+     <div id="exerciseContainer">
+    
+     </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
