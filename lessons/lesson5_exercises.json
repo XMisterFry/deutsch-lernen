@@ -1,0 +1,73 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German: I have a book",
+      "answer": "ich habe buch"
+    },
+    {
+      "question": "Translate to German: He has a car",
+      "answer": "er hat auto"
+    },
+    {
+      "question": "Translate to German: We have milk",
+      "answer": "wir haben milch"
+    },
+    {
+      "question": "Translate to German: She is student",
+      "answer": "sie ist studentin"
+    },
+    {
+      "question": "Translate to German: They are team",
+      "answer": "sie sind mannschaft"
+    },
+
+    {
+      "question": "Translate to German: I can play football",
+      "answer": "ich kann fußball spielen"
+    },
+    {
+      "question": "Translate to German: We can drink water",
+      "answer": "wir können wasser trinken"
+    },
+    {
+      "question": "Translate to German: He can cook pasta",
+      "answer": "er kann pasta kochen"
+    },
+    {
+      "question": "Translate to German: I want to eat bread",
+      "answer": "ich will brot essen"
+    },
+    {
+      "question": "Translate to German: They want to read book",
+      "answer": "sie wollen buch lesen"
+    },
+    {
+      "question": "Translate to German: You (du) must learn German",
+      "answer": "du musst deutsch lernen"
+    },
+    {
+      "question": "Translate to German: We must go home",
+      "answer": "wir müssen nach hause gehen"
+    },
+    {
+      "question": "Translate to German: I should drink water",
+      "answer": "ich soll wasser trinken"
+    },
+    {
+      "question": "Translate to German: He should sleep",
+      "answer": "er soll schlafen"
+    },
+    {
+      "question": "Translate to German: May I come in?",
+      "answer": "darf ich reinkommen"
+    },
+    {
+      "question": "Translate to German: You (du) may eat apple",
+      "answer": "du darfst apfel essen"
+    },
+    {
+      "question": "Translate to German: We may speak English",
+      "answer": "wir dürfen englisch sprechen"
+    }
+  ]
+}

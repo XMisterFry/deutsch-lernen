@@ -11,12 +11,16 @@
     Deutsch Lernen
   </header>
   <div class="topdiv">
-    <a style="color: black;" href="index.html">Home</a>
+    <button onclick="goHome()">🏠 Home</button>
     <a style="color: black;" href="user-guide.html">How to use this App?</a>
     
   </div>
   
   <div class="content">
+    <div id="dailyWords" class="daily-words-box">
+  <h2>📚 5 Words of the Day</h2>
+  <div id="wordLine"></div>
+</div>
     <!-- Dropdown stays visible at top -->
     <div class="lesson-selector">
       <label for="lessonSelect">Choose a Lesson:</label>
@@ -26,6 +30,7 @@
         <option value="2">Lesson 2: A1 Alphabets</option>
         <option value="3">Lesson 3: A1 Numbers</option>
         <option value="4">Lesson 4: A1 Introduction</option>
+        <option value="5">Lesson 5: A1 Haben Sien and Modal Verbs - 1</option>
 
       </select>
     </div>

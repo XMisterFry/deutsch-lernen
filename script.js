@@ -206,6 +206,53 @@ window.addEventListener("DOMContentLoaded", () => {
   }
 });
 
+async function loadDailyWords() {
+  try {
+    const res = await fetch("words.json");
+    const data = await res.json();
+    const allWords = data.words;
+
+    const daySeed = new Date().getDate();
+    const dailyWords = [];
+
+    for (let i = 0; i < 5; i++) {
+      const index = (daySeed * i + i * 7) % allWords.length;
+      dailyWords.push(allWords[index]);
+    }
+
+    const wordLine = document.getElementById("wordLine");
+    wordLine.innerHTML = dailyWords
+      .map((item) => `<strong>${item.word}</strong> – ${item.meaning}`)
+      .join(" | ");
+  } catch (err) {
+    console.error("Failed to load daily words:", err);
+  }
+  
+}
+
+window.addEventListener("DOMContentLoaded", () => {
+  loadDailyWords();
+});
+
+
+function goHome() {
+  // Clear localStorage
+  localStorage.removeItem("lastLesson");
+
+  // Reset dropdown
+  document.getElementById("lessonSelect").value = "";
+
+  // Clear slide and exercise containers
+  document.getElementById("lessonDisplay").innerHTML = "<p>Please select a lesson.</p>";
+  document.getElementById("exerciseContainer").innerHTML = "";
+
+  // Reset internal state if needed
+  slides = [];
+  current = 0;
+  exercises = [];
+  currentExercise = 0;
+}
+
 
 
 

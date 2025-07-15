@@ -208,3 +208,29 @@ ul li button:hover {
 .option-btn:hover {
   background-color: #ddd;
 }
+
+.daily-words-box {
+  padding: 1rem;
+  background-color: #f5f8ff;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.daily-words-box h2 {
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  color: #2c3e50;
+}
+
+.daily-words-box ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.daily-words-box li {
+  margin: 0.3rem 0;
+  font-size: 1rem;
+}
+
