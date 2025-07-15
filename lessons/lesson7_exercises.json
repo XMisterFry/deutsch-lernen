@@ -1,51 +1,172 @@
 {
-  "exercises": [
-   
-    { "question": "Translate to German: I drink water", "answer": "ich trinke wasser" },
-    { "question": "Translate to German: You (du) play football", "answer": "du spielst fußball" },
-    { "question": "Translate to German: He learns German", "answer": "er lernt deutsch" },
-    { "question": "Translate to German: We sing", "answer": "wir singen" },
-    { "question": "Translate to German: They cook pasta", "answer": "sie kochen pasta" },
-    { "question": "Translate to German: You (du) eat bread", "answer": "du isst brot" },
-
-
-    { "question": "Which letter sounds like 'yot' in German?", "answer": "j" },
-    { "question": "How do you pronounce 'ch' after 'a', 'o', 'u'?", "answer": "kh" },
-    { "question": "What does ß sound like?", "answer": "ss" },
-    { "question": "Translate to German: to search", "answer": "suchen" },
-    { "question": "Translate to German: to make", "answer": "machen" },
-    { "question": "Translate to German: window", "answer": "fenster" },
-
-   
-    { "question": "Translate to German: twenty-one", "answer": "einundzwanzig" },
-    { "question": "Translate to German: forty", "answer": "vierzig" },
-    { "question": "Translate to German: one hundred", "answer": "einhundert" },
-    { "question": "Translate to German: sixteen", "answer": "sechzehn" },
-    { "question": "Translate to German: one hundred two", "answer": "einhundertzwei" },
-    { "question": "Translate to German: thirty-three", "answer": "dreiunddreißig" },
-
-   
-    { "question": "Translate to German: I am Rahul", "answer": "ich bin rahul" },
-    { "question": "Translate to German: I live in Berlin", "answer": "ich wohne in berlin" },
-    { "question": "Translate to German: I come from India", "answer": "ich komme aus indien" },
-    { "question": "Translate to German: I speak German", "answer": "ich spreche deutsch" },
-    { "question": "Translate to German: My hobby is playing football", "answer": "mein hobby ist fußball spielen" },
-    { "question": "Translate to German: I am 20 years old", "answer": "ich bin 20 jahre alt" },
-
-   
-    { "question": "Translate to German: I have milk", "answer": "ich habe milch" },
-    { "question": "Translate to German: He has a car", "answer": "er hat auto" },
-    { "question": "Translate to German: We have tea", "answer": "wir haben tee" },
-    { "question": "Translate to German: I am student", "answer": "ich bin student" },
-    { "question": "Translate to German: You are tired", "answer": "du bist müde" },
-    { "question": "Translate to German: They are a team", "answer": "sie sind mannschaft" },
-
-    
-    { "question": "Translate to German: I can speak German", "answer": "ich kann deutsch sprechen" },
-    { "question": "Translate to German: We want to eat", "answer": "wir wollen essen" },
-    { "question": "Translate to German: He must learn", "answer": "er muss lernen" },
-    { "question": "Translate to German: I will play cricket", "answer": "ich werde cricket spielen" },
-    { "question": "Translate to German: You (du) will drink tea", "answer": "du wirst tee trinken" },
-    { "question": "Translate to German: They will sleep", "answer": "sie werden schlafen" }
-  ]
+    "exercises": [
+        {
+            "question": "Translate to German: I drink water",
+            "answer": "ich trinke wasser"
+        },
+        {
+            "question": "Translate to German: You (du) play football",
+            "answer": "du spielst fußball"
+        },
+        {
+            "question": "Translate to German: He learns German",
+            "answer": "er lernt deutsch"
+        },
+        {
+            "question": "Translate to German: We sing",
+            "answer": "wir singen"
+        },
+        {
+            "question": "Translate to German: They cook pasta",
+            "answer": "sie kochen pasta"
+        },
+        {
+            "question": "Translate to German: You (du) eat bread",
+            "answer": "du isst brot"
+        },
+        {
+            "question": "Which letter sounds like 'yot' in German?",
+            "answer": "j"
+        },
+        {
+            "question": "How do you pronounce 'ch' after 'a', 'o', 'u'?",
+            "answer": "kh"
+        },
+        {
+            "question": "What does ß sound like?",
+            "answer": "ss"
+        },
+        {
+            "question": "Translate to German: to search",
+            "answer": "suchen"
+        },
+        {
+            "question": "Translate to German: to make",
+            "answer": "machen"
+        },
+        {
+            "question": "Translate to German: window",
+            "answer": "fenster"
+        },
+        {
+            "question": "Translate to German: twenty-one",
+            "answer": "einundzwanzig"
+        },
+        {
+            "question": "Translate to German: forty",
+            "answer": "vierzig"
+        },
+        {
+            "question": "Translate to German: one hundred",
+            "answer": "einhundert"
+        },
+        {
+            "question": "Translate to German: sixteen",
+            "answer": "sechzehn"
+        },
+        {
+            "question": "Translate to German: one hundred two",
+            "answer": "einhundertzwei"
+        },
+        {
+            "question": "Translate to German: thirty-three",
+            "answer": "dreiunddreißig"
+        },
+        {
+            "question": "Translate to German: I am Rahul",
+            "answer": "ich bin rahul"
+        },
+        {
+            "question": "Translate to German: I live in Berlin",
+            "answer": "ich wohne in berlin"
+        },
+        {
+            "question": "Translate to German: I come from India",
+            "answer": "ich komme aus indien"
+        },
+        {
+            "question": "Translate to German: I speak German",
+            "answer": "ich spreche deutsch"
+        },
+        {
+            "question": "Translate to German: My hobby is playing football",
+            "answer": "mein hobby ist fußball spielen"
+        },
+        {
+            "question": "Translate to German: I am 20 years old",
+            "answer": "ich bin 20 jahre alt"
+        },
+        {
+            "question": "Translate to German: I have milk",
+            "answer": "ich habe milch"
+        },
+        {
+            "question": "Translate to German: He has a car",
+            "answer": "er hat auto"
+        },
+        {
+            "question": "Translate to German: We have tea",
+            "answer": "wir haben tee"
+        },
+        {
+            "question": "Translate to German: I am student",
+            "answer": "ich bin student"
+        },
+        {
+            "question": "Translate to German: You are tired",
+            "answer": "du bist müde"
+        },
+        {
+            "question": "Translate to German: They are a team",
+            "answer": "sie sind mannschaft"
+        },
+        {
+            "question": "Translate to German: I can speak German",
+            "answer": "ich kann deutsch sprechen"
+        },
+        {
+            "question": "Translate to German: We want to eat",
+            "answer": "wir wollen essen"
+        },
+        {
+            "question": "Translate to German: He must learn",
+            "answer": "er muss lernen"
+        },
+        {
+            "question": "Translate to German: I will play cricket",
+            "answer": "ich werde cricket spielen"
+        },
+        {
+            "question": "Translate to German: You (du) will drink tea",
+            "answer": "du wirst tee trinken"
+        },
+        {
+            "question": "Translate to German: They will sleep",
+            "answer": "sie werden schlafen"
+        },
+        {
+            "question": "Translate to German: I am playing football",
+            "answer": "ich spiele fußball"
+        },
+        {
+            "question": "Translate to German: He is learning German",
+            "answer": "er lernt deutsch"
+        },
+        {
+            "question": "Translate to German: We are drinking tea",
+            "answer": "wir trinken tee"
+        },
+        {
+            "question": "Translate to German: I will be reading a book",
+            "answer": "ich werde buch lesen"
+        },
+        {
+            "question": "Translate to German: You (du) will be speaking German",
+            "answer": "du wirst deutsch sprechen"
+        },
+        {
+            "question": "Translate to German: They will be playing music",
+            "answer": "sie werden musik spielen"
+        }
+    ]
 }
