@@ -1,0 +1,40 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German: I am Rahul",
+      "answer": "ich bin rahul"
+    },
+    {
+      "question": "Translate to German: I am 15 years old",
+      "answer": "ich bin fünfzehn jahre alt"
+    },
+    {
+      "question": "Translate to German: I live in Berlin",
+      "answer": "ich wohne in berlin"
+    },
+    {
+      "question": "Translate to German: I come from India",
+      "answer": "ich komme aus indien"
+    },
+    {
+      "question": "Translate to German: I am a student (female)",
+      "answer": "ich bin studentin"
+    },
+    {
+      "question": "Translate to German: I speak English and German",
+      "answer": "ich spreche englisch und deutsch"
+    },
+    {
+      "question": "Translate to German: My hobby is playing football",
+      "answer": "mein hobby ist fußball spielen"
+    },
+    {
+      "question": "Translate to German: I speak Hindi and a little German",
+      "answer": "ich spreche hindi und ein bisschen deutsch"
+    },
+    {
+      "question": "Translate to German: I come from New Delhi",
+      "answer": "ich komme aus neu delhi"
+    }
+  ]
+}
