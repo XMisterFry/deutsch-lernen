@@ -2,6 +2,9 @@ let current = 0;
 let slides = [];
 let exercises = [];
 let currentExercise = 0;
+let correctAnswers = 0;
+let wrongAnswers = 0;
+
 
 
 async function loadLesson(lessonId) {
@@ -117,7 +120,13 @@ function renderExercise() {
   }
 
   container.innerHTML = `
-    <h2 style="margin-bottom: 1rem;">✍️ Lesson Exercise</h2>
+    <h2 style="margin-bottom: 1rem; display: flex; justify-content: space-between; align-items: center;">
+  ✍️ Lesson Exercise
+  <span id="scoreboard" style="font-size: 0.9rem; color: #333;">
+    ✅ <span id="correctCount">${correctAnswers}</span> &nbsp; ❌ <span id="wrongCount">${wrongAnswers}</span>
+  </span>
+</h2>
+
 
     <div class="exercise-slide">
       <p><strong>Exercise ${currentExercise + 1}:</strong> ${ex.question}</p>
@@ -142,16 +151,21 @@ function nextExercise() {
   const feedback = document.getElementById("exerciseFeedback");
   if (isCorrect(input, correct)) {
     feedback.innerHTML = "<span style='color: green;'>✅ Correct!</span>";
+    correctAnswers++;
   } else {
     feedback.innerHTML = `<span style='color: red;'>❌ Incorrect. Correct: ${correct}</span>`;
+    wrongAnswers++;
   }
+
+    updateScoreboard();
+
 
   setTimeout(() => {
     if (currentExercise < exercises.length - 1) {
       currentExercise++;
       renderExercise();
     }
-  }, 1000);
+  }, 3000);
 }
 
 function prevExercise() {
@@ -228,7 +242,7 @@ async function loadDailyWords() {
     console.error("Failed to load daily words:", err);
   }
   
-}
+} 
 
 window.addEventListener("DOMContentLoaded", () => {
   loadDailyWords();
@@ -252,6 +266,12 @@ function goHome() {
   exercises = [];
   currentExercise = 0;
 }
+
+function updateScoreboard() {
+  document.getElementById("correctCount").innerText = correctAnswers;
+  document.getElementById("wrongCount").innerText = wrongAnswers;
+}
+
 
 
 
