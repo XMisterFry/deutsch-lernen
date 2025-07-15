@@ -1,0 +1,69 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German: I can play football",
+      "answer": "ich kann fußball spielen"
+    },
+    {
+      "question": "Translate to German: You (du) may eat pizza",
+      "answer": "du darfst pizza essen"
+    },
+    {
+      "question": "Translate to German: He wants to learn",
+      "answer": "er will lernen"
+    },
+    {
+      "question": "Translate to German: We must work",
+      "answer": "wir müssen arbeiten"
+    },
+    {
+      "question": "Translate to German: They should sleep",
+      "answer": "sie sollen schlafen"
+    },
+    {
+      "question": "Translate to German: I must drink water",
+      "answer": "ich muss wasser trinken"
+    },
+
+    {
+      "question": "Translate to German: I will play music",
+      "answer": "ich werde musik spielen"
+    },
+    {
+      "question": "Translate to German: You (du) will learn German",
+      "answer": "du wirst deutsch lernen"
+    },
+    {
+      "question": "Translate to German: He will eat bread",
+      "answer": "er wird brot essen"
+    },
+    {
+      "question": "Translate to German: We will drink tea",
+      "answer": "wir werden tee trinken"
+    },
+    {
+      "question": "Translate to German: They will go home",
+      "answer": "sie werden nach hause gehen"
+    },
+    {
+      "question": "Translate to German: I will sleep",
+      "answer": "ich werde schlafen"
+    },
+    {
+      "question": "Translate to German: She will read a book",
+      "answer": "sie wird buch lesen"
+    },
+    {
+      "question": "Translate to German: You (du) will write",
+      "answer": "du wirst schreiben"
+    },
+    {
+      "question": "Translate to German: We will speak English",
+      "answer": "wir werden englisch sprechen"
+    },
+    {
+      "question": "Translate to German: They will dance",
+      "answer": "sie werden tanzen"
+    }
+  ]
+}
