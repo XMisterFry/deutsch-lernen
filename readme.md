@@ -1,86 +1,68 @@
-# 🧠 German Verb Trainer (A1/A2)
+# 🇩🇪 German Learning WebApp
 
-An interactive web app designed to help beginners (like myself!) learn **German grammar**—with a focus on **verb conjugation** and **sentence formation**—through short, well-structured lessons and practical exercises.
+This is a beginner-friendly German learning web application built with vanilla JavaScript, HTML, and CSS. The app is organized by lessons that cover basic grammar, vocabulary, pronunciation, and exercises — designed to help users master German A1–A2 level concepts in an interactive way.
 
 ---
 
 ## 🚀 Features
 
-- 📖 **Lesson-by-lesson format** (starting from A1 topics)
-- 🔤 **Slide-based learning flow** — each concept appears one at a time
-- 🧪 **Interactive exercises** with instant feedback (text-based, not MCQ)
-- 🔊 **Built-in pronunciation (Text-to-Speech)** using the browser’s German voice
-- 📂 **Modular lesson structure** using external JSON files
-- 🖥️ Fully **client-side only** (no backend or database required)
-- 🎯 Mobile-friendly design and responsive layout
+- 📚 **Structured Lessons**: Lessons are divided into slides (concepts) with clear explanations and examples.
+- 🔊 **Text-to-Speech Pronunciation**: Every important sentence or word can be heard using your browser's built-in speech engine (TTS). Works best on desktop. Mobile support improved.
+- ✍️ **Interactive Exercises**: After each lesson, practice exercises test your learning with typing-based input — not just MCQs.
+- 🧠 **Smart Answer Matching**: Minor spelling mistakes, case issues, and umlaut variations are tolerated in answers.
+- 🎯 **Lesson Resume Support**: The app uses `localStorage` to remember your last visited lesson and resume from there on reload.
+- 📄 **All Content via JSON**: Lessons and exercises are loaded dynamically from JSON files in the `/lessons/` folder.
+- 🌐 **Static Hosting Friendly**: Works completely client-side (no database). Ideal for GitHub Pages or Render static hosting.
 
 ---
 
-## 📁 Folder Structure
+## 🧾 Folder Structure
 
-```bash
-/
-├── index.html              # Main entry point
-├── css/                    # Styling
-├── script/                 # JavaScript logic (DOM + TTS)
-├── lessons/                # All lesson content and exercises in JSON
-│   ├── lesson1.json
-│   ├── lesson1_exercises.json
-│   ├── lesson2.json
-│   └── ...
-└── README.md               # This file
+project/
+├── public/
+│ ├── index.html
+│ ├── user_guide.html
+│ ├── css/
+│ ├── script/
+│ │ ├── script.js
+│ ├── lessons/
+│ │ ├── lesson1.json
+│ │ ├── lesson1_exercises.json
+│ │ ├── lesson2.json
+│ │ ├── lesson2_exercises.json
+│ │ ├── lesson3.json
+│ │ ├── lesson3_exercises.json
+│ │ ├── lesson4.json
+│ │ ├── lesson4_exercises.json
+│ │ └── ...
+└── README.md
 
-owser's Text-to-Speech API (SpeechSynthesisUtterance with German voices)
 
-💾 Notes & Limitations
-❌ No Local Storage or Login System
+---
 
-The app does not save progress between sessions
+## 🔧 Tech Stack
 
-Each user session is fresh
+- HTML5 + CSS3
+- Vanilla JavaScript (DOM, localStorage, speechSynthesis)
+- JSON-based lesson and quiz content
 
-✅ All content is served from static JSON files
+---
 
-Easy to update/add new lessons without touching HTML or JS
+## 📌 Limitations
 
-✅ App works 100% client-side (no need for backend/server)
+- No backend or database (only localStorage).
+- No user accounts or login yet.
+- LocalStorage stores only the last visited lesson for now.
+- Text-to-Speech may not work with correct German voice on some mobile browsers (fixed partially by voice selection logic).
 
-🛠️ Tech Stack
-HTML5
+---
 
-CSS3
+## 🧑‍🏫 How to Use
 
-JavaScript (Vanilla)
+Check `user_guide.html` or see the live app for step-by-step usage.
 
-Web Speech API (TTS)
+---
 
-JSON (for lesson content)
+## 📄 License
 
-📚 Lesson Topics Covered (so far)
-✅ A1: Alphabets, Pronouns, Verb Conjugation, Numbers
-
-🛠️ A2: In Progress...
-
-Each lesson includes:
-
-Concept explanation
-
-Slide-by-slide progression
-
-Practice questions with instant feedback
-
-Pronunciation drills
-
-🧑‍💻 Developer Note
-This project is also a learning-by-building journey. I'm using this app not just to teach German—but to:
-
-Practice frontend development
-
-Structure real-world JSON data
-
-Use Text-to-Speech
-
-Improve UX for language learners
-
-🌐 Live Demo
-Coming soon: https://your-username.github.io/german-verb-trainer
+MIT — feel free to fork and contribute.
