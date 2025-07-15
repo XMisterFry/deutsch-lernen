@@ -177,8 +177,26 @@ function isCorrect(userInput, correctAnswer) {
 
 function speakGerman(text) {
   const utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = "de-DE"; // German voice
-  speechSynthesis.speak(utterance);
+  utterance.lang = "de-DE"; // Force German
+
+  const voices = window.speechSynthesis.getVoices();
+
+  // Try to find a German voice manually
+  const germanVoice = voices.find(v => v.lang.startsWith("de"));
+
+  if (germanVoice) {
+    utterance.voice = germanVoice;
+  } else {
+    console.warn("German voice not found, using default.");
+  }
+
+  window.speechSynthesis.speak(utterance);
+  if (speechSynthesis.getVoices().length === 0) {
+    speechSynthesis.onvoiceschanged = setVoiceAndSpeak;
+  } else {
+    setVoiceAndSpeak();
+  }
+
 }
 
 window.addEventListener("DOMContentLoaded", () => {
