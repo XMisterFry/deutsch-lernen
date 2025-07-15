@@ -5,6 +5,12 @@ let currentExercise = 0;
 
 
 async function loadLesson(lessonId) {
+  if (lessonId) {
+    localStorage.setItem("lastLesson", lessonId); // ✅ Save to localStorage
+  } else {
+    lessonId = localStorage.getItem("lastLesson"); // ✅ Use saved lesson if none passed
+  }
+
   const container = document.getElementById("lessonDisplay");
   if (!lessonId) {
     container.innerHTML = "<p>Please select a lesson.</p>";
@@ -19,6 +25,7 @@ async function loadLesson(lessonId) {
     slides = data.slides;
     current = 0;
     renderSlide();
+    document.getElementById("lessonSelect").value = lessonId; // Update dropdown UI
   } catch (err) {
     container.innerHTML = "<p>Error loading lesson.</p>";
   }
@@ -93,27 +100,7 @@ async function loadExercise() {
   }
 }
 
-// function renderExercise() {
-//   const container = document.getElementById("exerciseContainer");
-//   const ex = exercises[currentExercise];
 
-//   container.innerHTML = `
-  
-//   <h2 style="margin-bottom: 1rem;">✍️ Lesson Exercise</h2>
-
-//     <div class="exercise-slide">
-//       <p><strong>Exercise ${currentExercise + 1}:</strong> ${ex.question}</p>
-//       <input type="text" id="exerciseInput" placeholder="Type your answer here" />
-//       <div id="exerciseFeedback" class="feedback"></div>
-
-//       <div class="nav-buttons">
-//         <button onclick="prevExercise()" ${currentExercise === 0 ? 'disabled' : ''}>Previous</button>
-//         <button onclick="nextExercise()">Next</button>
-//       </div>
-//     </div>
-//   `;
-
-// }
 function renderExercise() {
   const container = document.getElementById("exerciseContainer");
   const ex = exercises[currentExercise];
@@ -193,6 +180,13 @@ function speakGerman(text) {
   utterance.lang = "de-DE"; // German voice
   speechSynthesis.speak(utterance);
 }
+
+window.addEventListener("DOMContentLoaded", () => {
+  const savedLesson = localStorage.getItem("lastLesson");
+  if (savedLesson) {
+    loadLesson(savedLesson); // ✅ Auto load last lesson
+  }
+});
 
 
 

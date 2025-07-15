@@ -1,0 +1,68 @@
+{
+  "exercises": [
+    {
+      "question": "Write 13 in German",
+      "answer": "dreizehn"
+    },
+    {
+      "question": "Write 16 in German",
+      "answer": "sechzehn"
+    },
+    {
+      "question": "Write 19 in German",
+      "answer": "neunzehn"
+    },
+    {
+      "question": "Write 21 in German",
+      "answer": "einundzwanzig"
+    },
+    {
+      "question": "Write 24 in German",
+      "answer": "vierundzwanzig"
+    },
+    {
+      "question": "Write 28 in German",
+      "answer": "achtundzwanzig"
+    },
+    {
+      "question": "Write 30 in German",
+      "answer": "dreißig"
+    },
+    {
+      "question": "Write 40 in German",
+      "answer": "vierzig"
+    },
+    {
+      "question": "Write 70 in German",
+      "answer": "siebzig"
+    },
+    {
+      "question": "Write 100 in German",
+      "answer": "einhundert"
+    },
+    {
+      "question": "Write 114 in German",
+      "answer": "einhundertvierzehn"
+    },
+    {
+      "question": "Write 132 in German",
+      "answer": "einhundertzweiunddreißig"
+    },
+    {
+      "question": "Write 1000 in German",
+      "answer": "eintausend"
+    },
+    {
+      "question": "Write 1256 in German",
+      "answer": "eintausendzweihundertsechsundfünfzig"
+    },
+    {
+      "question": "Write 1987 in German",
+      "answer": "eintausendneunhundertsiebenundachtzig"
+    },
+    {
+      "question": "Write 2024 in German",
+      "answer": "zweitausendvierundzwanzig"
+    }
+  ]
+}

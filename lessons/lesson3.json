@@ -14,16 +14,24 @@
       "content": "<strong> Numbers from 13 to 19 </strong> We will only add <strong> Zehn </strong> which means 10 to the number. The number at ones place comes first and then the tens place. <br> For Example : Thirteen is written as drei (3) + zehn (10) \n13 = dreizehn\n14 = vierzehn\n15 = fünfzehn\n16 = sechzehn (notice minor change, this is just to make the word sound more appropriate)\n17 = siebzehn (notice minor change, this is just to make the word sound more appropriate) \n18 = achtzehn\n19 = neunzehn"
     },
     {
-      "type" : "text",
+      "type": "text",
       "content": "<strong> 20 (14th of the 17) and the Numbers in multiples of 10 </strong> <br>  20= zwonzig <br>  All numbers in multiples of 10 in German only add <strong>Zig</strong> at the end  <br> 30 = drei+zig = dreizig <br> 40 = vierzig <br> 50 = fünfzig <br> 60 = sechzig (notice difference) <br> 70 = siebzig (notice difference) <br> 80 = achtzig <br> 90 = neunzig "
     },
     {
       "type": "text",
-      "content" : "<strong> Numbers like 21, 22 and so on..</strong> <br> For numbers 21-29 or 31-39 and so on we write the number at ones place with 20 or 30 and so on  <br> For Example : <br> 21 = eins (1) + und + zwonzig (20) = einundzwonzig <br> 22= zweiundzwanzig <br> 34 = vierunddreizig <br> 77 = siebenundsiebzig <br> 86 = sechsundachtzig  "
+      "content": "<strong> Numbers like 21, 22 and so on..</strong> <br> For numbers 21-29 or 31-39 and so on we write the number at ones place with 20 or 30 and so on  <br> For Example : <br> 21 = eins (1) + und + zwonzig (20) = einundzwonzig <br> 22= zweiundzwanzig <br> 34 = vierunddreizig <br> 77 = siebenundsiebzig <br> 86 = sechsundachtzig  "
     },
     {
       "type": "text",
-      "content": "Good job! You’ve completed Lesson 3 on Numbers!"
+      "content": "<strong> The remanining 3 of 17 are 100, 1000 and 10,00,000 : </strong> <br> 100 = hundert <br>  1000 = tausend <br> 10,00,000 = million"
+    },
+    {
+      "type": "text",
+      "content": "<strong>🧮 How Do We Read Numbers in German?</strong><br><br><strong>1. Numbers from 13 to 19:</strong><br>We read the number at the ones place first and then add <strong>zehn</strong>.<br>Examples:<br>13 = drei + zehn → <strong>dreizehn</strong><br>14 = vier + zehn → <strong>vierzehn</strong><br><br><strong>2. Numbers like 21, 22, 23:</strong><br>We read the ones digit, then <strong>und</strong>, then the tens digit.<br>Examples:<br>21 = eins + und + zwanzig → <strong>einundzwanzig</strong><br>22 = zwei + und + zwanzig → <strong>zweiundzwanzig</strong><br><br><strong>3. Multiples of 10 (30, 40, 50...):</strong><br>We read the base number and add <strong>-zig</strong> or <strong>-ßig</strong>.<br>Examples:<br>30 = drei + ßig → <strong>dreißig</strong><br>40 = vier + zig → <strong>vierzig</strong><br>70 = sieben + zig → <strong>siebzig</strong><br><br><strong>4. Hundreds (e.g., 100, 114):</strong><br>Use the number + <strong>hundert</strong> + rest of the number (no 'und')<br>Examples:<br>100 = eins + hundert → <strong>einhundert</strong><br>114 = einhundert + vierzehn → <strong>einhundertvierzehn</strong><br>132 = einhundert + zweiunddreißig → <strong>einhundertzweiunddreißig</strong><br><br><strong>5. Thousands (e.g., 1000, 1256):</strong><br>Use the number + <strong>tausend</strong> + rest of the number (again, no 'und')<br>Examples:<br>1000 = eins + tausend → <strong>eintausend</strong><br>1256 = eintausend + zweihundert + sechsundfünfzig → <strong>eintausendzweihundertsechsundfünfzig</strong><br>1987 = eintausend + neunhundert + siebenundachtzig → <strong>eintausendneunhundertsiebenundachtzig</strong><br><br><strong>Summary:</strong><br><ul><li><em>13–19:</em> ones + zehn (dreizehn, vierzehn...)</li><li><em>21–99:</em> ones + und + tens (einundvierzig...)</li><li><em>100–999:</em> hundreds + rest (einhundertvierzehn...)</li><li><em>1000+:</em> thousands + hundreds + rest (eintausendzweihundert...)</li></ul><p>This system may look long, but it’s very consistent!</p>"
+    },
+    {
+      "type": "text",
+      "content": "Good job!! You’ve completed Lesson 3 on Numbers!"
     }
   ]
 }
