@@ -4,6 +4,7 @@ let exercises = [];
 let currentExercise = 0;
 let correctAnswers = 0;
 let wrongAnswers = 0;
+let isAnswerSubmitted = false;
 
 
 
@@ -107,6 +108,7 @@ async function loadExercise() {
 function renderExercise() {
   const container = document.getElementById("exerciseContainer");
   const ex = exercises[currentExercise];
+  isAnswerSubmitted = false;
 
   let optionsHTML = "";
   if (ex.options && ex.options.length > 0) {
@@ -138,35 +140,71 @@ function renderExercise() {
 
       <div class="nav-buttons">
         <button onclick="prevExercise()" ${currentExercise === 0 ? 'disabled' : ''}>Previous</button>
-        <button onclick="nextExercise()">Next</button>
+        <button id="actionButton" onclick="submitOrNext()">Submit</button>
       </div>
     </div>
   `;
 }
 
-function nextExercise() {
-  const input = document.getElementById("exerciseInput").value.trim().toLowerCase();
-  const correct = exercises[currentExercise].answer.toLowerCase();
+// function nextExercise() {
+//   const input = document.getElementById("exerciseInput").value.trim().toLowerCase();
+//   const correct = exercises[currentExercise].answer.toLowerCase();
 
+//   const feedback = document.getElementById("exerciseFeedback");
+//   if (isCorrect(input, correct)) {
+//     feedback.innerHTML = "<span style='color: green;'>✅ Correct!</span>";
+//     correctAnswers++;
+//   } else {
+//     feedback.innerHTML = `<span style='color: red;'>❌ Incorrect. Correct: ${correct}</span>`;
+//     wrongAnswers++;
+//   }
+
+//     updateScoreboard();
+
+
+//   setTimeout(() => {
+//     if (currentExercise < exercises.length - 1) {
+//       currentExercise++;
+//       renderExercise();
+//     }
+//   }, 3000);
+// }
+
+function submitOrNext() {
+  const input = document.getElementById("exerciseInput");
   const feedback = document.getElementById("exerciseFeedback");
-  if (isCorrect(input, correct)) {
-    feedback.innerHTML = "<span style='color: green;'>✅ Correct!</span>";
-    correctAnswers++;
-  } else {
-    feedback.innerHTML = `<span style='color: red;'>❌ Incorrect. Correct: ${correct}</span>`;
-    wrongAnswers++;
-  }
+  const correct = exercises[currentExercise].answer.toLowerCase();
+  const button = document.getElementById("actionButton");
+
+  if (!isAnswerSubmitted) {
+    const userInput = input.value.trim().toLowerCase();
+
+    if (isCorrect(userInput, correct)) {
+      feedback.innerHTML = "<span style='color: green;'>✅ Correct!</span>";
+      correctAnswers++;
+    } else {
+      feedback.innerHTML = `<span style='color: red;'>❌ Incorrect. Correct: ${correct}</span>`;
+      wrongAnswers++;
+    }
 
     updateScoreboard();
+    isAnswerSubmitted = true;
 
+    
+    button.textContent = "Next";
 
-  setTimeout(() => {
+  } else {
+    // Go to next exercise
     if (currentExercise < exercises.length - 1) {
       currentExercise++;
       renderExercise();
+    } else {
+      feedback.innerHTML += " 🎉 You've completed all exercises!";
+      button.disabled = true;
     }
-  }, 3000);
+  }
 }
+
 
 function prevExercise() {
   if (currentExercise > 0) {
