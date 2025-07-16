@@ -47,6 +47,126 @@
     {
       "question": "Where do you (formal) live?",
       "answer": "wo wohnen sie"
+    },
+    {
+      "question": "Translate to German: What do you (formal) play?",
+      "answer": "was spielen sie"
+    },
+    {
+      "question": "Translate to German: When do you (formal) drink coffee?",
+      "answer": "wann trinken sie kaffee"
+    },
+    {
+      "question": "Translate to German: Where do you (formal) go?",
+      "answer": "wo gehen sie"
+    },
+    {
+      "question": "Translate to German: Why do you (formal) eat bread?",
+      "answer": "warum essen sie brot"
+    },
+    {
+      "question": "Translate to German: Who plays music?",
+      "answer": "wer spielt musik"
+    },
+    {
+      "question": "Translate to German: How do you (formal) speak German?",
+      "answer": "wie sprechen sie deutsch"
+    },
+    {
+      "question": "Translate to German: What do you (formal) learn?",
+      "answer": "was lernen sie"
+    },
+    {
+      "question": "Translate to German: Where do you (formal) live?",
+      "answer": "wo wohnen sie"
+    },
+    {
+      "question": "Translate to German: When do you (formal) read?",
+      "answer": "wann lesen sie"
+    },
+    {
+      "question": "Translate to German: Why do you (formal) cook?",
+      "answer": "warum kochen sie"
+    },
+    {
+      "question": "Translate to German: Who sings?",
+      "answer": "wer singt"
+    },
+    {
+      "question": "Translate to German: How do you (formal) write?",
+      "answer": "wie schreiben sie"
+    },
+    {
+      "question": "Translate to German: What do you (formal) drink?",
+      "answer": "was trinken sie"
+    },
+    {
+      "question": "Translate to German: Where do you (formal) work?",
+      "answer": "wo arbeiten sie"
+    },
+    {
+      "question": "Translate to German: When do you (formal) sleep (schlafen)?",
+      "answer": "wann schlafen sie"
+    },
+    {
+      "question": "Translate to German: Why do you (formal) play football?",
+      "answer": "warum spielen sie fußball"
+    },
+    {
+      "question": "Translate to German: Who learns?",
+      "answer": "wer lernt"
+    },
+    {
+      "question": "Translate to German: How do you (formal) read?",
+      "answer": "wie lesen sie"
+    },
+    {
+      "question": "Translate to German: What do you (formal) see?",
+      "answer": "was sehen sie"
+    },
+    {
+      "question": "Translate to German: Where do you (formal) buy (kaufen) bread?",
+      "answer": "wo kaufen sie brot"
+    },
+    {
+      "question": "Translate to German: When do you (formal) go shopping (einkaufen)?",
+      "answer": "wann gehen sie einkaufen"
+    },
+    {
+      "question": "Translate to German: Why do you (formal) come?",
+      "answer": "warum kommen sie"
+    },
+    {
+      "question": "Translate to German: Who writes?",
+      "answer": "wer schreibt"
+    },
+    {
+      "question": "Translate to German: How do you (formal) sleep?",
+      "answer": "wie schlafen sie"
+    },
+    {
+      "question": "Translate to German: What do you (formal) bring?",
+      "answer": "was bringen sie"
+    },
+    {
+      "question": "Translate to German: Where do you (formal) drive?",
+      "answer": "wo fahren sie"
+    },
+    {
+      "question": "Translate to German: When do you (formal) dance?",
+      "answer": "wann tanzen sie"
+    },
+    {
+      "question": "Translate to German: Why do you (formal) wait (warten)?",
+      "answer": "warum warten sie"
+    },
+    {
+      "question": "Translate to German: Who helps?",
+      "answer": "wer hilft"
+    },
+    {
+      "question": "Translate to German: How do you (formal) travel (reisen)?",
+      "answer": "wie reisen sie"
     }
   ]
 }
