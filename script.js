@@ -146,30 +146,6 @@ function renderExercise() {
   `;
 }
 
-// function nextExercise() {
-//   const input = document.getElementById("exerciseInput").value.trim().toLowerCase();
-//   const correct = exercises[currentExercise].answer.toLowerCase();
-
-//   const feedback = document.getElementById("exerciseFeedback");
-//   if (isCorrect(input, correct)) {
-//     feedback.innerHTML = "<span style='color: green;'>✅ Correct!</span>";
-//     correctAnswers++;
-//   } else {
-//     feedback.innerHTML = `<span style='color: red;'>❌ Incorrect. Correct: ${correct}</span>`;
-//     wrongAnswers++;
-//   }
-
-//     updateScoreboard();
-
-
-//   setTimeout(() => {
-//     if (currentExercise < exercises.length - 1) {
-//       currentExercise++;
-//       renderExercise();
-//     }
-//   }, 3000);
-// }
-
 function submitOrNext() {
   const input = document.getElementById("exerciseInput");
   const feedback = document.getElementById("exerciseFeedback");
@@ -190,7 +166,7 @@ function submitOrNext() {
     updateScoreboard();
     isAnswerSubmitted = true;
 
-    
+
     button.textContent = "Next";
 
   } else {
@@ -279,8 +255,8 @@ async function loadDailyWords() {
   } catch (err) {
     console.error("Failed to load daily words:", err);
   }
-  
-} 
+
+}
 
 window.addEventListener("DOMContentLoaded", () => {
   loadDailyWords();
