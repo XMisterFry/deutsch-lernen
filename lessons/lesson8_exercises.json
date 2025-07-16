@@ -1,0 +1,52 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German: You (du) play football",
+      "answer": "du spielst fußball"
+    },
+    {
+      "question": "Translate to German: You (Sie) play football",
+      "answer": "sie spielen fußball"
+    },
+    {
+      "question": "Translate to German: You (du) drink tea",
+      "answer": "du trinkst tee"
+    },
+    {
+      "question": "Translate to German: You (Sie) drink tea",
+      "answer": "sie trinken tee"
+    },
+    {
+      "question": "Which is correct for 'du'? (spielst/spielen)",
+      "answer": "spielst"
+    },
+    {
+      "question": "Which is correct for 'Sie'? (spielst/spielen)",
+      "answer": "spielen"
+    },
+    {
+      "question": "Translate to German: What do you (formal) play?",
+      "answer": "was spielen sie"
+    },
+    {
+      "question": "Translate to German: When do you (formal) drink water?",
+      "answer": "wann trinken sie wasser"
+    },
+    {
+      "question": "Translate to German: Why do you (formal) learn German?",
+      "answer": "warum lernen sie deutsch"
+    },
+    {
+      "question": "Translate to German: How do you (formal) cook pasta?",
+      "answer": "wie kochen sie pasta"
+    },
+    {
+      "question": "Translate to German: Who plays football?",
+      "answer": "wer spielt fußball"
+    },
+    {
+      "question": "Where do you (formal) live?",
+      "answer": "wo wohnen sie"
+    }
+  ]
+}
