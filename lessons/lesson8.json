@@ -18,7 +18,7 @@
         },
         {
             "type": "text",
-            "content": "<h3>❓ What are W-Fragen (W Questions)?</h3><p>W-questions are question words that start with a 'W'. Here are the most common:</p><ul><li><strong>was</strong> – what</li><li><strong>wann</strong> – when</li><li><strong>wo</strong> – where</li><li><strong>warum</strong> – why</li><li><strong>wer</strong> – who</li><li><strong>wie</strong> – how</li></ul>"
+            "content": "<h3>❓ What are W-Fragen (W Questions)?</h3><p>W-questions are question words that start with a 'W'. Here are the most common:</p><ul><li><strong>was</strong> – what <button onclick=\"speakGerman('was')\">🔊</button></li><li><strong>wann</strong> – when <button onclick=\"speakGerman('wann')\">🔊</button></li><li><strong>wo</strong> – where <button onclick=\"speakGerman('wo')\">🔊</button></li><li><strong>warum</strong> – why <button onclick=\"speakGerman('warum')\">🔊</button></li><li><strong>wer</strong> – who <button onclick=\"speakGerman('wer')\">🔊</button></li><li><strong>wie</strong> – how <button onclick=\"speakGerman('wie')\">🔊</button></li></ul><p>Click 🔊 to hear how each question word sounds.</p>"
         },
         {
             "type": "text",
