@@ -1,0 +1,115 @@
+{
+  "exercises": [
+    
+    {
+      "question": "Translate to German: Do you eat?",
+      "answer": "essen sie"
+    },
+    {
+      "question": "Translate to German: Do you drink water?",
+      "answer": "trinken sie wasser"
+    },
+    {
+      "question": "Translate to German: Do you play football?",
+      "answer": "spielen sie fußball"
+    },
+    {
+      "question": "Translate to German: Do you cook pasta?",
+      "answer": "kochen sie pasta"
+    },
+    {
+      "question": "Translate to German: Do you learn German?",
+      "answer": "lernen sie deutsch"
+    },
+    {
+      "question": "Translate to German: Do you read?",
+      "answer": "lesen sie"
+    },
+
+   
+    {
+      "question": "Translate to German: May I drink tea?",
+      "answer": "darf ich tee trinken"
+    },
+    {
+      "question": "Translate to German: May I cook rice?",
+      "answer": "darf ich reis kochen"
+    },
+    {
+      "question": "Translate to German: May I read?",
+      "answer": "darf ich lesen"
+    },
+    {
+      "question": "Translate to German: May I sit here?",
+      "answer": "darf ich hier sitzen"
+    },
+    {
+      "question": "Translate to German: Can we play cricket?",
+      "answer": "können wir cricket spielen"
+    },
+    {
+      "question": "Translate to German: Can we eat now?",
+      "answer": "können wir jetzt essen"
+    },
+    {
+      "question": "Translate to German: Can I go home?",
+      "answer": "kann ich nach hause gehen"
+    },
+    {
+      "question": "Translate to German: Can we drink coffee?",
+      "answer": "können wir kaffee trinken"
+    },
+    {
+      "question": "Translate to German: Can I sleep now?",
+      "answer": "kann ich jetzt schlafen"
+    },
+    {
+      "question": "Translate to German: May I open window?",
+      "answer": "darf ich fenster öffnen"
+    },
+
+    
+    {
+      "question": "Translate to German: Can you give me water?",
+      "answer": "können sie mir wasser geben"
+    },
+    {
+      "question": "Translate to German: Can you give me phone?",
+      "answer": "können sie mir handy geben"
+    },
+    {
+      "question": "Translate to German: Can you show me room?",
+      "answer": "können sie mir zimmer zeigen"
+    },
+    {
+      "question": "Translate to German: Can you bring me cola?",
+      "answer": "können sie mir cola bringen"
+    },
+    {
+      "question": "Translate to German: Can you tell me name?",
+      "answer": "können sie mir namen sagen"
+    },
+
+  
+    {
+      "question": "Translate to German: Which pizza do you have?",
+      "answer": "welche pizza haben sie"
+    },
+    {
+      "question": "Translate to German: How many pizzas do you have?",
+      "answer": "wie viele pizzas haben sie"
+    },
+    {
+      "question": "Translate to German: Which phone does he have?",
+      "answer": "welches handy hat er"
+    },
+    {
+      "question": "Translate to German: Which cola do they drink?",
+      "answer": "welche cola trinken sie"
+    },
+    {
+      "question": "Translate to German: How many brothers do you have?",
+      "answer": "wie viele brüder haben sie"
+    }
+  ]
+}
