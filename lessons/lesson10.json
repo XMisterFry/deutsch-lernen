@@ -1,0 +1,44 @@
+{
+    "slides": [
+        {
+            "type": "text",
+            "content": "<h3>Lesson 10: Cases in German</h3><p>German has only four cases:</p><ul><li>Nominativ</li><li>Akkusativ</li><li>Dativ</li><li>Genitiv</li></ul><p>At A1 level, we focus only on the first three: <strong>Nominativ, Akkusativ, and Dativ</strong>.</p>"
+        },
+        {
+            "type": "text",
+            "content": "<h3>🧠 What Are 'Cases'?</h3><p>We already understand cases from English — we just don’t name them.</p><p>In any sentence, we can identify:</p><ul><li><strong>Subject</strong> – the one who does something</li><li><strong>Object</strong> – the thing something is done to</li><li><strong>Indirect Object</strong> – the one who receives or benefits indirectly</li></ul><p>Example:<br><strong>Hasan gives Amo a mango.</strong><br>Hasan = subject, Amo = indirect object, mango = object</p>"
+        },
+        {
+            "type": "text",
+            "content": "<h3>Cases and Sentence Roles</h3><p>Each sentence role matches a case in German:</p><ul><li><strong>Subject → Nominativ</strong></li><li><strong>Direct Object → Akkusativ</strong></li><li><strong>Indirect Object → Dativ</strong></li></ul>"
+        },
+        {
+            "type": "text",
+            "content": "<h3>📌 Quick Revision: Direct vs Indirect Object</h3><p>Example:</p><p><strong>He gives a ball to the boy.</strong><br>“A ball” = direct object<br>“The boy” = indirect object</p><p>Direct object = what is being given.<br>Indirect object = who receives it.</p>"
+        },
+        {
+            "type": "text",
+            "content": "<h3>🔍 Gender and Objects in German</h3><p>In German, even non-living things have gender:</p><ul><li><strong>die Uhr</strong> (the watch) → feminine</li><li><strong>der Ball</strong> (the ball) → masculine</li><li><strong>das Auto</strong> (the car) → neuter</li></ul><p>You must learn the gender of each noun.</p>"
+        },
+        {
+            "type": "text",
+            "content": "<h3>📘 German Cases Table</h3><p>Here is how the definite articles change based on case in German. These are useful to identify the <strong>subject (Nominative)</strong>, <strong>direct object (Accusative)</strong>, and <strong>indirect object (Dative)</strong> in a sentence.</p><br> <p> <strong> (S) </strong> here refers to Singular </p><div class='table-wrapper'><table style='width:650px; max-width:100%; white-space: nowrap; border-collapse: collapse; text-align: center; margin-top: 1rem;'><thead><tr style='background-color: #f2f2f2;'><th>Case</th><th>Masculine (s)</th><th>Feminine (s)</th><th>Neuter (s)</th><th>Plural</th></tr></thead><tbody><tr><td><strong>Nominative</strong><br><em>(Subject)</em></td><td>der</td><td>die</td><td>das</td><td>die</td></tr><tr><td><strong>Accusative</strong><br><em>(Direct Object)</em></td><td><strong>den</strong></td><td>die</td><td>das</td><td>die</td></tr><tr><td><strong>Dative</strong><br><em>(Indirect Object)</em></td><td><strong>dem</strong></td><td><strong>der</strong></td><td><strong>dem</strong></td><td><strong>den</strong></td></tr></tbody></table></div><p style='margin-top: 1rem;'>🧠 <strong>Tip:</strong> Use this table to match the case based on function in the sentence:<br>— <strong>Nominative</strong>: Who or what is doing the action?<br>— <strong>Accusative</strong>: What is being directly acted upon?<br>— <strong>Dative</strong>: To whom or for whom?</p>"
+        },
+        {
+            "type": "text",
+            "content": "<h3>💡 How to Use the Table</h3><p>In the beginning, you can refer to the table often — that’s okay!</p><p>With practice, it becomes second nature. Let’s try some <strong>easy nominative</strong> sentences first.</p><p>Remember:</p><ul><li>Ball = masculine</li><li>Uhr = feminine</li><li>Auto = neuter</li></ul>"
+        },
+        {
+            "type": "text",
+            "content": "<h3>🟢 Nominativ Examples</h3><p><strong>The ball is red.</strong><br>Ball = subject → Nominativ → masculine → <strong>der</strong><br><em>Der Ball ist rot.</em></p><p><strong>The watch is red.</strong><br>Uhr = feminine → <strong>die</strong><br><em>Die Uhr ist rot.</em></p><p><strong>The car is red.</strong><br>Auto = neuter → <strong>das</strong><br><em>Das Auto ist rot.</em></p>"
+        },
+        {
+            "type": "text",
+            "content": "<h3>🔴 Akkusativ Examples (Object)</h3><p><strong>I have the ball.</strong><br>“I” = subject → Nominativ<br>“The ball” = object → Akkusativ → masculine → <strong>den</strong><br><em>Ich habe den Ball.</em></p><p><strong>I have the watch.</strong><br><em>Ich habe die Uhr.</em></p><p><strong>I have the car.</strong><br><em>Ich habe das Auto.</em></p>"
+        },
+        {
+            "type": "text",
+            "content": "<h3>📌 Summary</h3><ul><li>German uses <strong>cases</strong> to mark the function of words in a sentence.</li><li><strong>Nominativ</strong> = subject</li><li><strong>Akkusativ</strong> = direct object</li><li><strong>Dativ</strong> = indirect object</li><li>Learn noun gender and check the case table to choose correct articles (der/die/das etc).</li></ul><p>Let’s now do some exercises!</p>"
+        }
+    ]
+}
