@@ -1,0 +1,90 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German: I play with the pen. (pen is maskulin in Deutsch)",
+      "answer": "ich spiele mit dem stift"
+    },
+    {
+      "question": "Translate to German: I play with the bag. (bag is feminin in Deutsch)",
+      "answer": "ich spiele mit der tasche"
+    },
+    {
+      "question": "Translate to German: I play with the car. (car is neuter in Deutsch)",
+      "answer": "ich spiele mit dem auto"
+    },
+    {
+      "question": "Translate to German: I play with the cat. (cat is feminin in Deutsch)",
+      "answer": "ich spiele mit der katze"
+    },
+    {
+      "question": "Translate to German: I play with the book. (book is neuter in Deutsch)",
+      "answer": "ich spiele mit dem buch"
+    },
+    {
+      "question": "Translate to German: I play with the watch. (watch is feminin in Deutsch)",
+      "answer": "ich spiele mit der uhr"
+    },
+    {
+      "question": "Translate to German: I play with the lamp. (lamp is feminin in Deutsch)",
+      "answer": "ich spiele mit der lampe"
+    },
+    {
+      "question": "Translate to German: I play with the dog. (dog is maskulin in Deutsch)",
+      "answer": "ich spiele mit dem hund"
+    },
+    {
+      "question": "Translate to German: I play with the room. (room is maskulin in Deutsch)",
+      "answer": "ich spiele mit dem raum"
+    },
+    {
+      "question": "Translate to German: I play with the pencil. (pencil is maskulin in Deutsch)",
+      "answer": "ich spiele mit dem stift"
+    },
+    {
+      "question": "Translate to German: I walk with the cat. (cat is feminin in Deutsch)",
+      "answer": "ich gehe mit der katze"
+    },
+    {
+      "question": "Translate to German: I walk with the dog. (dog is maskulin in Deutsch)",
+      "answer": "ich gehe mit dem hund"
+    },
+    {
+      "question": "Translate to German: I walk with the bag. (bag is feminin in Deutsch)",
+      "answer": "ich gehe mit der tasche"
+    },
+    {
+      "question": "Translate to German: I walk with the lamp. (lamp is feminin in Deutsch)",
+      "answer": "ich gehe mit der lampe"
+    },
+    {
+      "question": "Translate to German: I walk with the car. (car is neuter in Deutsch)",
+      "answer": "ich gehe mit dem auto"
+    },
+
+    {
+      "question": "Translate to German: I have the pen. (pen is maskulin in Deutsch)",
+      "answer": "ich habe den stift"
+    },
+    {
+      "question": "Translate to German: I see the cat. (cat is feminin in Deutsch)",
+      "answer": "ich sehe die katze"
+    },
+    {
+      "question": "Translate to German: I have the book. (book is neuter in Deutsch)",
+      "answer": "ich habe das buch"
+    },
+
+    {
+      "question": "Translate to German: The cat is soft. (cat is feminin in Deutsch)",
+      "answer": "die katze ist weich"
+    },
+    {
+      "question": "Translate to German: The car is fast. (car is neuter in Deutsch)",
+      "answer": "das auto ist schnell"
+    },
+    {
+      "question": "Translate to German: The lamp is red. (lamp is feminin in Deutsch)",
+      "answer": "die lampe ist rot"
+    }
+  ]
+}

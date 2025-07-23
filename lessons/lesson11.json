@@ -1,0 +1,36 @@
+{
+  "slides": [
+    {
+      "type": "text",
+      "content": "<h3>🔁 Quick Revision</h3><p>Let’s revise:</p><p><strong>The ball is red.</strong><br><em>Der Ball ist rot.</em></p><p><strong>I have the ball.</strong><br><em>Ich habe den Ball.</em></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>🆕 New Vocabulary Examples</h3><ul><li>Stift (pen) – masculine</li><li>Tasche (purse/bag) – feminine</li><li>Buch (book) – neuter</li></ul><p><strong>The bag is red →</strong> Die Tasche ist rot<br><strong>The book is red →</strong> Das Buch ist rot<br><strong>I have the pen →</strong> Ich habe den Stift</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>📥 Introduction to Dativ Case</h3><p>We are done with Nominativ and Akkusativ. Now we learn the <strong>Dativ</strong> case.</p><p>Dativ is used for <strong>indirect objects</strong>.</p><p><strong>Example:</strong><br>“I give Amo a pen.”<br>“Amo” is the indirect object — the receiver.</p><p>But: Dativ is also used after some <strong>prepositions</strong>. That’s what we’ll focus on now.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>📌 Dativ with Prepositions</h3><p>Certain prepositions always require the <strong>dativ case</strong>.</p><p>One of the most common is:</p><p><strong>mit</strong> = with</p><p>When you use <em>mit</em> before an object, that object changes to <strong>dativ</strong>.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>🧠 Rule: Preposition → Dativ</h3><p>Let’s see what happens when we add <strong>mit</strong>:</p><p><strong>I play with the ball.</strong><br>Ball = masculine + mit → <strong>dem</strong><br><em>Ich spiele mit dem Ball.</em></p><p>We got “dem” from the Dativ case in the table.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>🧪 More mit + Dativ Examples</h3><p><strong>I play with the watch.</strong><br>Uhr = feminine → <strong>der</strong><br><em>Ich spiele mit der Uhr.</em></p><p><strong>I play with the car.</strong><br>Auto = neuter → <strong>dem</strong><br><em>Ich spiele mit dem Auto.</em></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>⚖️ Compare Dativ vs Akkusativ</h3><p><strong>I play with the book.</strong><br><em>Ich spiele mit dem Buch.</em></p><p><strong>I love the ball.</strong><br><em>Ich liebe den Ball.</em></p><p><strong>I play with the bag.</strong><br><em>Ich spiele mit der Tasche.</em></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>✅ Summary</h3><ul><li><strong>Dativ</strong> is the case for indirect objects or objects after specific prepositions.</li><li><strong>mit</strong> (with) is a preposition that always triggers Dativ.</li><li>Using <strong>mit</strong> changes the article:</li><ul><li>der → dem (masculine)</li><li>die → der (feminine)</li><li>das → dem (neuter)</li></ul></ul><p>🎉 That’s all for Dativ Part 1!</p>"
+    }
+  ]
+}
