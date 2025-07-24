@@ -1,0 +1,28 @@
+{
+  "slides": [
+    {
+      "type": "text",
+      "content": "Let’s revise the cases from Lesson 10 and 11 using some example sentences.\n\nich liebe den Tisch (I love the table) → Akkusativ maskulin\nwir spielen mit der Lampe (we play with the lamp) → Dativ feminin\nich komme mit dem Auto (I come with the car) → Dativ neutral\nwir lieben den Ball (we love the ball) → Akkusativ maskulin\nsie spielen mit dem Stift (they play with the pen) → Dativ maskulin\n\nRemember: refer to the definite article table and identify whether the word is subject, object, or used with a preposition like 'mit'.\nSubject → Nominativ\nDirect Object → Akkusativ\nAfter 'mit' → Dativ"
+    },
+    {
+      "type": "text",
+      "content": "<h3>📘 Indefinite Articles Table</h3> <br> <p> Now we learn indefinite articles: a/an → ein / eine\n\nWe will also use this same table format for:\n- mein (my)\n- dein (your)\n- sein (his)\n- ihr (her/their/formal your)\n\nLet’s focus on a/an for now.</p>\n<p>This table shows how the indefinite articles <strong>ein / eine</strong> (a/an) change based on gender and case in German. These are used when talking about a non-specific item.</p><br><p><strong>(S)</strong> refers to Singular and <strong>(P)</strong> to Plural. Indefinite articles technically don’t exist in plural, but we show placeholders here to help you build mental patterns for possessive articles later (like <em>mein</em>, <em>dein</em>).</p><div class='table-wrapper'><table style='width:650px; max-width:100%; white-space: nowrap; border-collapse: collapse; text-align: center; margin-top: 1rem;'><thead><tr style='background-color: #f2f2f2;'><th>Case</th><th>Masculine (S)</th><th>Feminine (S)</th><th>Neuter (S)</th><th>Plural (P)</th></tr></thead><tbody><tr><td><strong>Nominative</strong><br><em>(Subject)</em></td><td>ein</td><td>eine</td><td>ein</td><td>(m/d/s)eine</td></tr><tr><td><strong>Accusative</strong><br><em>(Direct Object)</em></td><td><strong>einen</strong></td><td>eine</td><td>ein</td><td>(m/d/s)eine</td></tr><tr><td><strong>Dative</strong><br><em>(Indirect Object)</em></td><td><strong>einem</strong></td><td><strong>einer</strong></td><td><strong>einem</strong></td><td>(m/d/s)einen</td></tr></tbody></table></div><p style='margin-top: 1rem;'>🧠 <strong>Note:</strong> There is no plural form for indefinite articles but here we mention plurals so that we can use this table later on to make sentences with Poessive articles like my your his etc.</p>"
+    },
+    {
+      "type": "text",
+      "content": "Let’s make sentences with the indefinite article (a/an) just like we did with definite articles:\n\nI have a ball → Akkusativ maskulin\nich habe einen Ball \n  I play with a watch → Dativ feminin\n ich spiele mit einer Uhr \n wir haben eine Tasche (we have a bag) → Akkusativ feminin\n he comes with a car → Dativ neutral\n er kommt mit einem Auto \nYou can use the table above to find the correct form of ein/eine/einen/einem/einer"
+    },
+    {
+      "type": "text",
+      "content": "Now let’s make the same table useful for possessives like 'my', 'your', 'his', etc.\n\nTranslations:\nmy = mein\nyour = dein\nhis = sein\n\nWe will cover ihr (her/their/formal your) later.\n\nAll possessive forms follow the **same endings** as the ein/eine table.\nJust add a prefix:\n+ m for mein\n+ d for dein\n+ s for sein\n\nSo:\nA ball - ein Ball (Nominativ maskulin) \n My ball - m+ein Ball → mein Ball (Nominativ maskulin)\nI come with a Car - Ich komme mit einem Auto (Dativ neutral) \n I come with my car - Ich Komme mit m+einem  Auto → Ich komme mit meinem Auto (Dativ neutral)\n Similarly \n s+eine Uhr → seine Uhr (Akkusativ feminin)\nd+einen Stift → deinen Stift (Akkusativ maskulin) \n You can see that we have only added the appropriate prefix to what would be the word for indirect article "
+    },
+    {
+      "type": "text",
+      "content": "Let’s see example sentences with mein / dein / sein:\n\nich komme mit meinem Auto (I come with my car) → Dativ neutral\ner liebt seine Uhr (He loves his watch) → Akkusativ feminin\nSie haben deinen Stift (You have your pen) → Akkusativ maskulin\nsein Buch ist blau (His book is blue) → Nominativ neutral"
+    },
+    {
+      "type": "text",
+      "content": "Summary:\n\n1. Use the same table for a/an, mein, dein, sein, etc.\n2. Identify the case (Nominativ, Akkusativ, Dativ)\n3. Find gender of noun (maskulin, feminin, neutral, plural)\n4. Use correct ending from table\n5. Add prefix for mein, dein, sein, etc.\n\nExamples:\n- einen Ball → meinen Ball (my ball)\n- einer Uhr → meiner Uhr (my watch)\n- einem Auto → deinem Auto (your car)"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+    "exercises" : [
+    {
+        "question": "Translate to German: I have a lamp.",
+        "answer": "ich habe eine lampe"
+    },
+    {
+        "question": "Translate to German: She buys a bag.",
+        "answer": "sie kauft eine tasche"
+    },
+    {
+        "question": "Translate to German: He sees a dog.",
+        "answer": "er sieht einen hund"
+    },
+    {
+        "question": "Translate to German: We need a room.",
+        "answer": "wir brauchen ein zimmer"
+    },
+    {
+        "question": "Translate to German: They have a pen.",
+        "answer": "sie haben einen stift"
+    },
+    {
+        "question": "Translate to German: You have a car.",
+        "answer": "du hast ein auto"
+    },
+    {
+        "question": "Translate to German: She has a cat.",
+        "answer": "sie hat eine katze"
+    },
+    {
+        "question": "Translate to German: He finds a ball.",
+        "answer": "er findet einen ball"
+    },
+    {
+        "question": "Translate to German: I see a watch.",
+        "answer": "ich sehe eine uhr"
+    },
+    {
+        "question": "Translate to German: We buy a book.",
+        "answer": "wir kaufen ein buch"
+    },
+    {
+        "question": "Translate to German: This is my bag.",
+        "answer": "das ist meine tasche"
+    },
+    {
+        "question": "Translate to German: That is your pen.",
+        "answer": "das ist dein stift"
+    },
+    {
+        "question": "Translate to German: I see his dog.",
+        "answer": "ich sehe seinen hund"
+    },
+    {
+        "question": "Translate to German: She likes my lamp.",
+        "answer": "sie mag meine lampe"
+    },
+    {
+        "question": "Translate to German: He has your car.",
+        "answer": "er hat dein auto"
+    },
+    {
+        "question": "Translate to German: We see his cat.",
+        "answer": "wir sehen seine katze"
+    },
+    {
+        "question": "Translate to German: I want your watch.",
+        "answer": "ich will deine uhr"
+    },
+    {
+        "question": "Translate to German: She finds my book.",
+        "answer": "sie findet mein buch"
+    },
+    {
+        "question": "Translate to German: That is his room.",
+        "answer": "das ist sein zimmer"
+    },
+    {
+        "question": "Translate to German: You see my ball.",
+        "answer": "du siehst meinen ball"
+    }
+]
+}
