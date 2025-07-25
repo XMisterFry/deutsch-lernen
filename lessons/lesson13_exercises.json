@@ -1,0 +1,84 @@
+{
+  "exercises": [
+    {
+      "question": "Translate: I play with my pen",
+      "answer": "ich spiele mit meinem stift"
+    },
+    {
+      "question": "Translate: Your sofa is blue",
+      "answer": "dein sofa ist blau"
+    },
+    {
+      "question": "Translate: He loves his book",
+      "answer": "er liebt sein buch"
+    },
+    {
+      "question": "Translate: We love your car",
+      "answer": "wir lieben dein auto"
+    },
+    {
+      "question": "Translate: My father has my ball",
+      "answer": "mein vater hat meinen ball"
+    },
+    {
+      "question": "Translate: Your mother plays with your watch",
+      "answer": "deine mutter spielt mit deiner uhr"
+    },
+    {
+      "question": "Translate: I love our watch",
+      "answer": "ich liebe unsere uhr"
+    },
+    {
+      "question": "Translate: I love her watch",
+      "answer": "ich liebe ihre uhr"
+    },
+    {
+      "question": "Translate: I love your (formal) pen",
+      "answer": "ich liebe ihren stift"
+    },
+    {
+      "question": "Translate: You (formal) play with your pen",
+      "answer": "sie spielen mit ihrem stift"
+    },
+    {
+      "question": "Translate: Your mother loves your pen",
+      "answer": "ihre mutter liebt ihren stift"
+    },
+    {
+      "question": "Translate: His father has his watch",
+      "answer": "sein vater hat seine uhr"
+    },
+    {
+      "question": "Translate: Their mother comes with their car",
+      "answer": "ihre mutter kommt mit ihrem auto"
+    },
+    {
+      "question": "Translate: Her mother is Ankita",
+      "answer": "ihre mutter ist ankita"
+    },
+    {
+      "question": "Which is correct for Dative Maskulin: (meinen/meinem)",
+      "answer": "meinem"
+    },
+    {
+      "question": "Which is correct for Akkusativ Maskulin: (seinen/seinem)",
+      "answer": "seinen"
+    },
+    {
+      "question": "Which is correct for Nominativ Feminin: (unsere/unseren)",
+      "answer": "unsere"
+    },
+    {
+      "question": "Translate: He comes with our car",
+      "answer": "er kommt mit unserem auto"
+    },
+    {
+      "question": "Translate: We love their watch",
+      "answer": "wir lieben ihre uhr"
+    },
+    {
+      "question": "Translate: Your (formal) father has your car",
+      "answer": "ihr vater hat ihr auto"
+    }
+  ]
+}

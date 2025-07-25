@@ -1,0 +1,28 @@
+{
+  "slides": [
+    {
+      "type": "text",
+      "content": "<h3>Let's Revise Cases with Some Examples</h3><ul><li>Ich spiele mit meinem Stift. (I play with my pen)</li><li>Dein Sofa ist blau. (Your sofa is blue)</li><li>Er liebt sein Buch. (He loves his book)</li><li>Wir lieben dein Auto. (We love your car)</li></ul>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Complex Example – Subject and Object</h3><p><strong>My father has my ball</strong><br>Here, 'father' is the subject and 'ball' is the object.<br>German: <strong>Mein Vater hat meinen Ball</strong><br>'Mein Vater' is third person, so 'haben' becomes 'hat'.</p><p><strong>Your mother plays with your watch</strong><br>German: <strong>Deine Mutter spielt mit deiner Uhr</strong><br>Mother = nominativ fem | Watch = dativ fem</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Using unser and ihr with the Ein Table</h3><p>We’ve already used <strong>mein</strong>, <strong>dein</strong>, <strong>sein</strong> with the <strong>ein/eine</strong> table, just by adding +m, +d, +s respectively.</p><p>Now let's explore:</p><ul><li><strong>unser</strong> – our</li><li><strong>ihr</strong> – her / their / your (formal)</li></ul><p>Same process: Replace with 'A' first, use <strong>ein/eine/einen/einem</strong> based on the case and gender, then apply 'unser' or 'ihr'. This time isntead of adding any prefix we compeltely replace EIN with IHR or UNSER. For Example, Ein becomes Ihr, Eine becomes Ihre, Einem becomes Ihrem and same for Unser</p><p><strong>Example:</strong><br>Their ball is red → A ball is red → nominativ maskulin → ein → <strong>Ihr Ball ist rot</strong><br>Our ball is red → <strong>Unser Ball ist rot</strong></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Examples with unser and ihr</h3><ul><li>Ich liebe unsere Uhr. (I love our watch)</li><li>Ich liebe ihre Uhr. (I love her watch)</li><li>Ich liebe Ihren Stift. (I love your pen)</li><li>Sie spielen mit ihrem Stift. (You play with your pen - formal, dativ maskulin)</li></ul>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>More Examples with ihr and unser</h3><ul><li>Ihre Mutter liebt ihren Stift. (Your mother loves your pen)</li><li>Sein Vater hat seine Uhr. (His father has his watch)</li><li>Ihre Mutter kommt mit ihrem Auto. (Their mother comes with their car)</li><li>Ihre Mutter ist Ankita. (Her mother is Ankita)</li></ul>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>✅ Summary</h3><ul><li>Subject = Nominativ, Object = Akkusativ, Indirect Object = Dativ</li><li>mein/dein/sein follow ein table</li><li>unser/ihr also follow same pattern, just replace ein/eine with unser/ihr and apply correct case endings</li><li>Practice helps make these natural!</li></ul>"
+    }
+  ]
+}
