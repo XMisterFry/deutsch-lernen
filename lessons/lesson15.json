@@ -1,0 +1,30 @@
+{
+
+  "slides": [
+     {
+  "type": "text",
+  "content": "<h3>📦 Types of Prepositions</h3><p>In German, prepositions affect the case of the noun that follows them. There are three types:</p><ul><li><strong>Dativ Prepositions</strong> – make the sentence case Dativ</li><li><strong>Akkusativ Prepositions</strong> – make the sentence case Akkusativ</li><li><strong>Wechselpräpositionen</strong> – can be either Dativ or Akkusativ depending on the sentence</li></ul><p>🖼️ Here's a table of common prepositions:</p><img src='./lessons/images/prepositions-table.jpeg' alt='Prepositions Table' style='max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; margin-top : 1rem;'>"
+}
+,
+    {
+      "type": "text",
+      "content": "<h3>🧠 Examples – Dativ and Akkusativ Preps</h3><ul><li><strong>We come without our car</strong> – \"ohne\" is Akkusativ → <em>wir kommen ohne unser auto</em></li><li><strong>He plays with his ball</strong> – \"mit\" is Dativ → <em>er spielt mit seinem ball</em></li><li><strong>You (formal) can cook for your father</strong> – \"für\" is Akkusativ → <em>sie können für ihren vater kochen</em></li><li><strong>I will come after my mother</strong> – \"nach\" is Dativ + modal verb structure → <em>ich werde nach meiner mutter kommen</em></li></ul><p>⏱️ <strong>Note:</strong> Because of <em>nach</em>, the word \"mother\" becomes Dativ.<br>Because of <em>werde</em> (modal verb), the main verb <em>kommen</em> moves to the end in infinitive form.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>⚖️ Wechsel Prepositions – Both Dativ & Akkusativ</h3><p><strong>Wechselpräpositionen</strong> can act as either Dativ or Akkusativ depending on the situation:</p><ul><li><strong>Dativ:</strong> if there is no movement/change of place</li><li><strong>Akkusativ:</strong> if there is movement/change of place</li></ul><p>💡 <em>In A1 and A2 level, we treat Wechselprepositionen as Dativ unless very clear movement is involved.</em></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>🔁 Wechsel – Examples</h3><ul><li><strong>I go into my house</strong> (movement → Akkusativ)<br><em>ich gehe in mein haus</em></li><li><strong>I live in my house</strong> (no movement → Dativ)<br><em>ich wohne in meinem haus</em></li><li><strong>I put the bag on the table</strong> (movement → Akkusativ)<br><em>ich stelle die tasche auf den tisch</em></li><li><strong>The bag lies on the table</strong> (static → Dativ)<br><em>die tasche liegt auf dem tisch</em></li></ul>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>📘 Shortened Forms in German</h3><p>Like English contracts \"is not\" → \"isn't\", German also shortens certain common combinations.</p><ul><li><strong>zu + dem → zum</strong><br>ich gehe zu dem büro → <em>ich gehe zum büro</em></li><li><strong>zu + der → zur</strong><br>ich gehe zu der schule → <em>ich gehe zur schule</em></li></ul><p>🧘‍♂️ Don't worry! You can always use the full form.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>✅ Summary</h3><ul><li>Prepositions can affect the case (Dativ/Akkusativ)</li><li>Wechselpräpositionen switch between the two based on movement</li><li>Use Dativ for <em>mit, nach, zu, aus, bei, seit, von</em></li><li>Use Akkusativ for <em>für, ohne, bis, durch, gegen, um</em></li><li>Wechsel include: <em>in, auf, an, hinter, neben, über, unter, vor, zwischen</em></li></ul><p>✔ Keep practicing with simple examples!</p>"
+    }
+  ]
+}
