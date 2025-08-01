@@ -1,0 +1,26 @@
+{
+  "exercises": [
+    { "question": "Translate to German: She loves me.", "answer": "sie liebt mich" },
+    { "question": "Translate to German: Ovi comes without you (informal).", "answer": "ovi kommt ohne dich" },
+    { "question": "Translate to German: We see him.", "answer": "wir sehen ihn" },
+    { "question": "Translate to German: They know her.", "answer": "sie kennen sie" },
+    { "question": "Translate to German: I am calling them.", "answer": "ich rufe sie an" },
+
+    { "question": "Translate to German: She plays with me.", "answer": "sie spielt mit mir" },
+    { "question": "Translate to German: I can give you (informal) tea.", "answer": "ich kann dir tee geben" },
+    { "question": "Translate to German: We are talking to him.", "answer": "wir sprechen mit ihm" },
+    { "question": "Translate to German: They are helping her.", "answer": "sie helfen ihr" },
+    { "question": "Translate to German: I am coming after you (formal).", "answer": "ich komme nach ihnen" },
+
+    { "question": "Translate to German: Ovi plays with us.", "answer": "ovi spielt mit uns" },
+    { "question": "Translate to German: Ankit cooks for you (plural informal).", "answer": "ankit kocht für euch" },
+    { "question": "Translate to German: I am waiting for you (informal).", "answer": "ich warte auf dich" },
+    { "question": "Translate to German: She goes without us.", "answer": "sie geht ohne uns" },
+    { "question": "Translate to German: They work with him.", "answer": "sie arbeiten mit ihm" },
+
+    { "question": "Translate to German: Good morning.", "answer": "guten morgen" },
+    { "question": "Translate to German: I am sorry.", "answer": "es tut mir leid" },
+    { "question": "Translate to German: How are you? (informal)", "answer": "wie geht es dir" },
+    { "question": "Translate to German: And you? (informal)", "answer": "und dir" }
+  ]
+}

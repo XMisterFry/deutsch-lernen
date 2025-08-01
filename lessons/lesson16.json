@@ -1,0 +1,29 @@
+{
+  
+  "slides": [
+    {
+      "type": "text",
+      "content": "<h3>👤 Personal Pronouns – Why Do They Change?</h3><p>In German, pronouns (I, you, he, she, etc.) change depending on their <strong>case</strong> in the sentence.</p><p>We already know <strong>ich</strong> for <em>I</em> and <strong>du</strong> for <em>you</em>. These are Nominativ cases, similarly if I or You are in Akkusativ or Dativ case they become <strong> mich and mir for Ich and dich and dir for Du </strong>. \n Lets see some examples:</p><ul><li><strong>She loves me</strong> – here 'me' is <em>akkusativ</em> → <em>sie liebt mich</em></li><li><strong>She plays with me</strong> – 'me' is after 'with' (<em>mit</em> = dativ) → <em>sie spielt mit mir</em></li><li><strong>Can you give me Pepsi?</strong> – 'me' is <em>dativ</em> → <em>können sie mir pepsi geben?</em></li></ul>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>📌 Examples with Ich and Du</h3><ul><li>Ovi comes without me → <em>ovi kommt ohne mich</em> (akkusativ)</li><li>Ankita cooks for you → <em>ankita kocht für dich</em> (akkusativ)</li><li>Ankita comes after me → <em>ankita kommt nach mir</em> (dativ)</li><li>I can give you Pepsi → <em>ich kann dir pepsi geben</em> (dativ)</li></ul>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>📊 Pronouns in All Three Cases</h3><table style='border-collapse: collapse; width: 100%; text-align: left;'><thead><tr><th>Nominativ</th><th>Akkusativ</th><th>Dativ</th></tr></thead><tbody><tr><td>ich</td><td>mich</td><td>mir</td></tr><tr><td>du</td><td>dich</td><td>dir</td></tr><tr><td>er</td><td>ihn</td><td>ihm</td></tr><tr><td>es</td><td>es</td><td>ihm</td></tr><tr><td>sie (she)</td><td>sie</td><td>ihr</td></tr><tr><td>wir</td><td>uns</td><td>uns</td></tr><tr><td>ihr</td><td>euch</td><td>euch</td></tr><tr><td>sie (they)</td><td>sie</td><td>ihnen</td></tr><tr><td>Sie (formal you)</td><td>Sie</td><td>Ihnen</td></tr></tbody></table>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>📚 Examples Using the Full Table</h3><ul><li>Ovi plays with her → <em>ovi spielt mit ihr</em> (dativ)</li><li>Ankit cooks for him → <em>ankit kocht für ihn</em> (akkusativ)</li><li>Ankita comes without them → <em>ankita kommt ohne sie</em> (akkusativ)</li><li>Ankit comes after you (formal) → <em>ankit kommt nach ihnen</em> (dativ)</li></ul>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>💬 Common Everyday Phrases</h3><table style='border-collapse: collapse; width: 100%; text-align: left;'><thead><tr><th>German</th><th>English</th></tr></thead><tbody><tr><td>Guten Morgen</td><td>Good morning</td></tr><tr><td>Guten Abend</td><td>Good evening</td></tr><tr><td>Gute Nacht</td><td>Good night</td></tr><tr><td>Es tut mir leid</td><td>I am sorry</td></tr><tr><td>Entschuldigung</td><td>Excuse me / Sorry</td></tr><tr><td>Bitte</td><td>Please / You’re welcome</td></tr><tr><td>Wie geht es dir?</td><td>How are you? (informal)</td></tr><tr><td>Es geht mir gut</td><td>I am fine</td></tr><tr><td>Und dir?</td><td>And you? (informal)</td></tr><tr><td>Auch gut</td><td>Also fine</td></tr></tbody></table>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>✅ Summary</h3><ul><li>German pronouns change with case: nominativ, akkusativ, dativ.</li><li>Know the table for ich/du/er/es/sie/wir/ihr/sie/Sie.</li><li>Case depends on whether the pronoun is subject, direct object, or indirect object.</li><li>Many everyday phrases also use these pronouns in different cases.</li></ul>"
+    }
+  ]
+}
