@@ -8,10 +8,10 @@
     { "question": "Translate to German: I play without my ball.", "answer": "ich spiele ohne meinen ball" },
     { "question": "Translate to German: You live near your mother.", "answer": "du wohnst bei deiner mutter" },
     { "question": "Translate to German: We are at the market.", "answer": "wir sind bei dem markt" },
-    { "question": "Translate to German: I am going to the bus stop.", "answer": "ich gehe zur bushaltestelle" },
-    { "question": "Translate to German: She puts the bag on the chair.", "answer": "sie stellt die tasche auf den stuhl" },
+    { "question": "Translate to German: I am going to the bus stop.", "answer": "ich gehe zu der bushaltestelle" },
+    { "question": "Translate to German: She puts the bag on the chair. (hint : movement invlolved)", "answer": "sie stellt die tasche auf den stuhl" },
     
-    { "question": "Translate to German: I go until the station.", "answer": "ich gehe bis zum bahnhof" },
+    { "question": "Translate to German: I go until the station.", "answer": "ich gehe bis dem bahnhof" },
     { "question": "Translate to German: The dog is under the table.", "answer": "der hund ist unter dem tisch" },
     { "question": "Translate to German: He is sitting in the room.", "answer": "er sitzt in dem zimmer" },
     { "question": "Translate to German: We are coming with our son.", "answer": "wir kommen mit unserem sohn" },
