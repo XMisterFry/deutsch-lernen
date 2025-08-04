@@ -2,9 +2,7 @@ let current = 0;
 let slides = [];
 let exercises = [];
 let currentExercise = 0;
-let correctAnswers = 0;
-let wrongAnswers = 0;
-let isAnswerSubmitted = false;
+
 
 
 
@@ -41,15 +39,9 @@ function renderSlide() {
 
   let html = `<div class="slide active">`;
 
+  // We only need to handle text slides now
   if (slide.type === "text") {
     html += `<p>${slide.content.replace(/\n/g, '<br>')}</p>`;
-
-  } else if (slide.type === "quiz") {
-    html += `<p><strong>${slide.question}</strong></p><ul>`;
-    slide.options.forEach(option => {
-      html += `<li><button onclick="checkAnswer('${option}', '${slide.answer}')">${option}</button></li>`;
-    });
-    html += `</ul><div id="quizFeedback"></div>`;
   }
 
   html += `
@@ -58,12 +50,14 @@ function renderSlide() {
       <button onclick="nextSlide()" ${current === slides.length - 1 ? 'disabled' : ''}>Next</button>
     </div>
     <div class="exercise-button">
-    <button onclick="loadExercise()">Start Exercise</button>
-  </div>
+      <button onclick="loadExercise()">Start Exercise</button>
+    </div>
   </div>`;
 
   container.innerHTML = html;
 }
+
+
 
 function nextSlide() {
   if (current < slides.length - 1) {
@@ -79,14 +73,66 @@ function prevSlide() {
   }
 }
 
-function checkAnswer(selected, correct) {
-  const feedback = document.getElementById("quizFeedback");
-  if (selected === correct) {
-    feedback.innerHTML = "<p style='color: green;'>Correct!</p>";
+function renderExercise() {
+  const container = document.getElementById("exerciseContainer");
+  const ex = exercises[currentExercise];
+
+  let optionsHTML = "";
+  if (ex.options && ex.options.length > 0) {
+    optionsHTML = `
+      <div class="exercise-options" style="margin-bottom: 10px;">
+        ${ex.options.map(opt => `
+          <button class="option-btn" onclick="document.getElementById('exerciseInput').value='${opt}'">${opt}</button>
+        `).join("")}
+      </div>
+    `;
+  }
+
+  container.innerHTML = `
+    <h2 style="margin-bottom: 1rem;">
+      ✍️ Lesson Exercise
+    </h2>
+
+    <div class="exercise-slide">
+      <p><strong>Exercise ${currentExercise + 1}:</strong> ${ex.question}</p>
+
+      ${optionsHTML}
+
+      <input type="text" id="exerciseInput" placeholder="Type your answer here" />
+      <div id="exerciseFeedback" class="feedback" style="margin-top: 10px;"></div>
+
+      <div class="nav-buttons">
+        <button onclick="prevExercise()" ${currentExercise === 0 ? 'disabled' : ''}>Previous</button>
+        <button id="actionButton" onclick="submitOrNext()">Show Answer</button>
+      </div>
+    </div>
+  `;
+}
+
+function submitOrNext() {
+  const feedback = document.getElementById("exerciseFeedback");
+  const correct = exercises[currentExercise].answer;
+
+  const button = document.getElementById("actionButton");
+
+  if (button.textContent === "Show Answer") {
+    // Show the correct answer
+    feedback.innerHTML = `<span style='color: blue;'>💡 Correct answer: ${correct}</span>`;
+    button.textContent = "Next";
   } else {
-    feedback.innerHTML = `<p style='color: red;'>Wrong. Correct answer is: ${correct}</p>`;
+    // Go to next exercise
+    if (currentExercise < exercises.length - 1) {
+      currentExercise++;
+      renderExercise();
+    } else {
+      feedback.innerHTML += " 🎉 You've completed all exercises!";
+      button.disabled = true;
+    }
   }
 }
+
+
+
 
 async function loadExercise() {
   const lessonId = document.getElementById("lessonSelect").value;
@@ -105,81 +151,6 @@ async function loadExercise() {
 }
 
 
-function renderExercise() {
-  const container = document.getElementById("exerciseContainer");
-  const ex = exercises[currentExercise];
-  isAnswerSubmitted = false;
-
-  let optionsHTML = "";
-  if (ex.options && ex.options.length > 0) {
-    optionsHTML = `
-      <div class="exercise-options" style="margin-bottom: 10px;">
-        ${ex.options.map(opt => `
-          <button class="option-btn" onclick="document.getElementById('exerciseInput').value='${opt}'">${opt}</button>
-        `).join("")}
-      </div>
-    `;
-  }
-
-  container.innerHTML = `
-    <h2 style="margin-bottom: 1rem; display: flex; justify-content: space-between; align-items: center;">
-  ✍️ Lesson Exercise
-  <span id="scoreboard" style="font-size: 0.9rem; color: #333;">
-    ✅ <span id="correctCount">${correctAnswers}</span> &nbsp; ❌ <span id="wrongCount">${wrongAnswers}</span>
-  </span>
-</h2>
-
-
-    <div class="exercise-slide">
-      <p><strong>Exercise ${currentExercise + 1}:</strong> ${ex.question}</p>
-
-      ${optionsHTML}
-
-      <input type="text" id="exerciseInput" placeholder="Type your answer here" />
-      <div id="exerciseFeedback" class="feedback"></div>
-
-      <div class="nav-buttons">
-        <button onclick="prevExercise()" ${currentExercise === 0 ? 'disabled' : ''}>Previous</button>
-        <button id="actionButton" onclick="submitOrNext()">Submit</button>
-      </div>
-    </div>
-  `;
-}
-
-function submitOrNext() {
-  const input = document.getElementById("exerciseInput");
-  const feedback = document.getElementById("exerciseFeedback");
-  const correct = exercises[currentExercise].answer.toLowerCase();
-  const button = document.getElementById("actionButton");
-
-  if (!isAnswerSubmitted) {
-    const userInput = input.value.trim().toLowerCase();
-
-    if (isCorrect(userInput, correct)) {
-      feedback.innerHTML = "<span style='color: green;'>✅ Correct!</span>";
-      correctAnswers++;
-    } else {
-      feedback.innerHTML = `<span style='color: red;'>❌ Incorrect. Correct: ${correct}</span>`;
-      wrongAnswers++;
-    }
-
-    updateScoreboard();
-    isAnswerSubmitted = true;
-
-
-    button.textContent = "Next";
-
-  } else {
-    // Go to next exercise
-    if (currentExercise < exercises.length - 1) {
-      currentExercise++;
-      renderExercise();
-    } else {
-      feedback.innerHTML += " 🎉 You've completed all exercises!";
-      button.disabled = true;
-    }
-  }
-}
 
 
 function prevExercise() {
@@ -189,19 +160,7 @@ function prevExercise() {
   }
 }
 
-// Fuzzy match
-function isCorrect(userInput, correctAnswer) {
-  const normalize = (str) => str
-    .toLowerCase()
-    .replace(/ä/g, "a")
-    .replace(/ö/g, "o")
-    .replace(/ü/g, "u")
-    .replace(/ß/g, "ss")
-    .replace(/\s+/g, " ") // normalize spaces
-    .trim();
 
-  return normalize(userInput) === normalize(correctAnswer);
-}
 
 function speakGerman(text) {
   const utterance = new SpeechSynthesisUtterance(text);
@@ -281,10 +240,6 @@ function goHome() {
   currentExercise = 0;
 }
 
-function updateScoreboard() {
-  document.getElementById("correctCount").innerText = correctAnswers;
-  document.getElementById("wrongCount").innerText = wrongAnswers;
-}
 
 
 
