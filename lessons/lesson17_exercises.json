@@ -1,0 +1,27 @@
+{
+  "exercises": [
+    { "question": "Translate to German: I had Pizza.", "answer": "ich hatte Pizza " },
+    { "question": "Translate to German: We had pizza.", "answer": "wir hatten pizza" },
+    { "question": "Translate to German: He could cook pasta.", "answer": "er konnte pasta kochen" },
+    { "question": "Translate to German: They were students.", "answer": "sie waren studenten" },
+    { "question": "Translate to German: She wanted to learn German.", "answer": "sie wollte deutsch lernen" },
+
+   
+    { "question": "Translate to German: We had to eat vegetables.", "answer": "wir mussten gemüse essen" },
+   
+    { "question": "Translate to German: He played football.", "answer": "er spielte fußball" },
+    { "question": "Translate to German: They wanted to travel.", "answer": "sie wollten reisen" },
+
+    { "question": "Translate to German: You (informal) had tea.", "answer": "du hattest tee" },
+    { "question": "Translate to German: She could speak English.", "answer": "sie konnte englisch sprechen" },
+    { "question": "Translate to German: I was tired.", "answer": "ich war müde" },
+    { "question": "Translate to German: We should help him.", "answer": "wir sollten ihm helfen" },
+    { "question": "Translate to German: He had milk.", "answer": "er hatte milch" },
+
+    
+    { "question": "Translate to German: They could play football.", "answer": "sie konnten fußball spielen" },
+    { "question": "Translate to German: We were happy.", "answer": "wir waren glücklich" },
+    { "question": "Translate to German: You (informal) wanted to eat cake.", "answer": "du wolltest kuchen essen" },
+    { "question": "Translate to German: She had to drink water.", "answer": "sie musste wasser trinken" }
+  ]
+}

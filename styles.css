@@ -240,3 +240,11 @@ ul li button:hover {
   -webkit-overflow-scrolling: touch;
   margin-bottom: 1rem;
 }
+
+.table-wrapper table {
+  width: 700px; /* or min-width */
+  max-width: 100%;
+  border-collapse: collapse;
+  white-space: nowrap;
+}
+

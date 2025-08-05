@@ -1,0 +1,34 @@
+{
+  "lessonNumber": 17,
+  "title": "A1 Past Tense (A2 syllabus taught in A1)",
+  "slides": [
+    {
+      "type": "text",
+      "content": "<h3>📅 Quick Revision – Tenses We Know</h3><p>We have already studied:</p><ul><li><strong>Present Tense:</strong> ich spiele cricket – I play cricket</li><li><strong>Present Continuous:</strong> (same as present in German) – ich spiele cricket – I am playing cricket</li><li><strong>Future Tense:</strong> ich werde cricket spielen – I will play cricket</li></ul>"
+    },
+   {
+      "type": "text",
+      "content": "<h3>⌛ Understanding Past Tense in English First</h3><p>In any language, past tense often means learning new vocabulary:</p><ul><li><strong>Simple Past:</strong> simple past is something that is finished done in the past. Talks about something that happened completely in the past — it’s finished. You often say when it happened. Example: I watched a movie yesterday.</li><li><strong>Present Perfect:</strong> present perfect is something that was done in the past but connected to now. An action that happened at an unspecified time in the past (time is not important) Something that started in the past and continues until now Example: I have watched this movie before.</li><li><strong>Past Perfect:</strong> past perfect is something that happened in the past of something that is past instead of now. Talks about something that happened before another past action. It’s like the “past of the past”. Example: I had watched that movie before I met you.</li></ul>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>🇩🇪 Simple Past in German</h3><p>We first learned <strong>sein</strong> and <strong>haben</strong> in Lesson 5. Now in the Past Tense:</p><ul><li><strong>sein</strong> → becomes Waren : <br>ich war – du warst – er war – wir waren – sie waren</li><li><strong>haben</strong> → becomes Hatten :<br>ich hatte – du hattest – er hatte – wir hatten – sie hatten</li></ul><p>💡 <em>Tip:</em> Remember the <strong>ich</strong> form. Du = +st, wir/sie = +en, er = same as ich.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>📝 Examples – Simple Past</h3><ul><li>I was a student → <em>ich war student</em></li><li>You had pizza → <em>du hattest pizza</em></li><li>We had pizza → <em>wir hatten pizza</em></li></ul>"
+    },
+   {
+      "type": "text",
+      "content": "<h3>🛠 Modal Verbs in Past Tense</h3><p>We learned modal verbs in Lessons 5 and 6. In past tense, they change as follows:</p><div class='table-wrapper'> <table style='border-collapse: collapse; width: 100%; text-align: left;'><thead><tr><th>Pronoun</th><th>Können → konnten</th><th>Sollen → sollten</th><th>Wollen → wollten</th><th>Dürfen → durften</th><th>Müssen → mussten</th></tr></thead><tbody><tr><td>ich</td><td>konnte</td><td>sollte</td><td>wollte</td><td>durfte</td><td>musste</td></tr><tr><td>du</td><td>konntest</td><td>solltest</td><td>wolltest</td><td>durftest</td><td>musstest</td></tr><tr><td>er/sie/es</td><td>konnte</td><td>sollte</td><td>wollte</td><td>durfte</td><td>musste</td></tr><tr><td>wir</td><td>konnten</td><td>sollten</td><td>wollten</td><td>durften</td><td>mussten</td></tr><tr><td>sie/Sie</td><td>konnten</td><td>sollten</td><td>wollten</td><td>durften</td><td>mussten</td></tr></tbody></table></div><p>💡 <em>Golden Rule:</em> The modal verb still takes the <strong>second position</strong> and the other verb goes to the <strong>end in infinitive form</strong>.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>💬 Examples – Modal Verbs in Past Tense</h3><ul><li>I could cook pasta → <em>ich konnte pasta kochen</em></li><li>He wanted to learn English → <em>er wollte englisch lernen</em></li><li>I had to eat pizza → <em>ich musste pizza essen</em></li></ul>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>✅ Summary</h3><ul><li>Past tense sometimes means learning new forms for verbs.</li><li><strong>Sein:</strong> war, warst, waren, etc.</li><li><strong>Haben:</strong> hatte, hattest, hatten, etc.</li><li>Modal verbs change forms but follow the same modal verb sentence rules.</li><li>German past tense is more structured than English irregular forms.</li></ul>"
+    }
+  ]
+}
