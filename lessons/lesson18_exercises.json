@@ -1,0 +1,92 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German: He was student",
+      "answer": "er war student"
+    },
+    {
+      "question": "Translate to German: You had Audi",
+      "answer": "sie hatten audi"
+    },
+    {
+      "question": "Translate to German: We could learn German",
+      "answer": "wir konnten deutsch lernen"
+    },
+    {
+      "question": "Translate to German: I had to play tennis",
+      "answer": "ich musste tennis spielen"
+    },
+    {
+      "question": "Translate to German: He cooked pasta",
+      "answer": "er kochte pasta"
+    },
+    {
+      "question": "Fill in the blank: Ich ___ Tee getrunken. (habe/hat)",
+      "answer": "habe"
+    },
+    {
+      "question": "Which is correct for 'he has sung'? (er hat gesungen / er haben gesungen)",
+      "answer": "er hat gesungen"
+    },
+    {
+      "question": "Translate to German: They have sung Macarena",
+      "answer": "sie haben macarena gesungen"
+    },
+    {
+      "question": "Translate to German: I have played tennis",
+      "answer": "ich habe tennis gespielt"
+    },
+    {
+      "question": "Translate to German: He has gone to Berlin",
+      "answer": "er ist nach berlin gegangen"
+    },
+    {
+      "question": "Fill in the blank: Du ___ Englisch gelernt. (hast/hat)",
+      "answer": "hast"
+    },
+    {
+      "question": "Translate to German: We have drunk tea",
+      "answer": "wir haben tee getrunken"
+    },
+    {
+      "question": "Translate to German: I have learnt English",
+      "answer": "ich habe englisch gelernt"
+    },
+    {
+      "question": "Which is correct for 'I have gone to my father'? (ich habe zu meinem vater gegangen / ich bin zu meinem vater gegangen)",
+      "answer": "ich bin zu meinem vater gegangen"
+    },
+    {
+      "question": "Translate to German: I had eaten pasta",
+      "answer": "ich hatte pasta gegessen"
+    },
+    {
+      "question": "Translate to German: You had learnt English",
+      "answer": "du hattest englisch gelernt"
+    },
+    {
+      "question": "Translate to German: We had gone to Paris",
+      "answer": "wir waren nach paris gegangen"
+    },
+    {
+      "question": "Fill in the blank: Ich ___ nach Mumbai gegangen. (bin/habe)",
+      "answer": "bin"
+    },
+    {
+      "question": "Translate to German: I drink tea / I was drinking tea",
+      "answer": "ich trank tee"
+    },
+    {
+      "question": "Translate to German: I have been drinking tea",
+      "answer": "ich habe tee getrunken"
+    },
+    {
+      "question": "Choose the correct preposition for city: Ich gehe ___ Berlin. (zu/nach)",
+      "answer": "nach"
+    },
+    {
+      "question": "Choose the correct preposition for non-city place: Ich gehe ___ Schule. (zu/nach)",
+      "answer": "zu"
+    }
+  ]
+}
