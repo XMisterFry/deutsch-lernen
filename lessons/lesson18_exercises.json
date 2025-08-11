@@ -77,6 +77,26 @@
       "answer": "ich trank tee"
     },
     {
+      "question": "Translate to German: I have flown to Hamburg",
+      "answer": "ich bin nach hamburg geflogen"
+    },
+    {
+      "question": "Translate to German: She has driven home",
+      "answer": "sie ist nach hause gefahren"
+    },
+    {
+      "question": "Translate to German: We have gone to the market",
+      "answer": "wir sind zum markt gegangen"
+    },
+      {
+      "question": "Translate using correct participle: He has sung a song",
+      "answer": "er hat ein lied gesungen"
+    },
+    {
+      "question": "Translate to German: I have not played football",
+      "answer": "ich habe nicht fussball gespielt"
+    },
+    {
       "question": "Translate to German: I have been drinking tea",
       "answer": "ich habe tee getrunken"
     },
