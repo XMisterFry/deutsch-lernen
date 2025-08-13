@@ -1,0 +1,36 @@
+{
+  "slides": [
+    {
+      "type": "text",
+      "content": "<h3>Lesson 20 – Trennbare Verbs & Irregular Verbs</h3><p>We are good with regular verbs like:<br><i>ich trinke</i>, <i>du trinkst</i>, <i>er trinkt</i>, <i>wir trinken</i>, <i>sie trinken</i>.<br>We also know some irregular verbs like <b>haben</b> and <b>sein</b>.<br>In this lesson, we will look at more irregular verbs, including <b>trennbare Verben</b> (separable verbs) which many learners find tricky.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Irregular Verbs that Change for Pronunciation</h3><p>Some verbs are irregular because following the regular pattern makes them hard to pronounce.<br>Example: <b>arbeiten</b> or <b>finden</b>.<br>If we write <i>du arbeitst</i> or <i>er arbeitt</i>, it's hard to pronounce, so German adds extra letters:<br><ul><li>ich arbeite</li><li>du arbeitest</li><li>er arbeitet</li><li>wir arbeiten</li><li>sie arbeiten</li></ul>Same with <b>finden</b>.<br><b>Rule:</b> If a verb stem (infinitive minus <i>-en</i>) ends with <b>t</b> or <b>d</b>, be careful when conjugating, as extra letters may be added for pronunciation.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>10 Important Irregular Verbs to Remember</h3><p>Some common verbs change in the <i>du</i> and <i>er/sie/es</i> forms.<br>For some, the <i>er</i> form is just the <i>du</i> form without the <b>-st</b> ending.<br><table><tr><th>Infinitive</th><th>du</th><th>er/sie/es</th></tr><tr><td>sehen</td><td>siehst</td><td>sieht</td></tr><tr><td>fahren</td><td>fährst</td><td>fährt</td></tr><tr><td>helfen</td><td>hilfst</td><td>hilft</td></tr><tr><td>geben</td><td>gibst</td><td>gibt</td></tr><tr><td>nehmen</td><td>nimmst</td><td>nimmt</td></tr><tr><td>sprechen</td><td>sprichst</td><td>spricht</td></tr><tr><td>treffen</td><td>triffst</td><td>trifft</td></tr><tr><td>schlafen</td><td>schläfst</td><td>schläft</td></tr><tr><td>lesen</td><td>liest</td><td>liest</td></tr><tr><td>essen</td><td>isst</td><td>isst</td></tr></table></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Introduction to Trennbare Verben (Separable Verbs)</h3><p>German often creates new verbs by adding prefixes like <i>auf</i>, <i>an</i>, <i>aus</i>.<br>But, just like 'understand' in English doesn't literally mean 'stand under', <b>aufwachen</b> doesn't mean 'on guard'.<br>Common prefixes:<br><ul><li>auf</li><li>an</li><li>ab</li><li>aus</li><li>bei</li><li>ein</li><li>los</li><li>mit</li><li>nach</li><li>hin</li><li>her</li><li>vor</li><li>weg</li><li>zu</li><li>zurück</li></ul>When conjugated in a sentence, these verbs split apart – we’ll see how next!</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Some Trennbare Verbs & Meanings</h3><p><ul><li>anmachen – to switch on</li><li>ausmachen – to switch off</li><li>zumachen – to close</li><li>aufmachen – to open</li><li>aufwachen – to wake up</li></ul><b>Golden Rule 1:</b> Never translate trennbare verbs literally! Learn their real meaning as vocabulary.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Golden Rule 2 – Prefix Moves to the End</h3><p>When you conjugate a trennbare verb in simple tense, the prefix moves to the end.<br><b>aufwachen</b> (to wake up):<br>Ich wache auf<br>Du wachst auf<br>Er wacht auf<br>Wir wachen auf<br>Sie wachen auf<br><br>Examples:<br>We wake up at 8 – <i>Wir wachen um 8 auf.</i><br>He opens the window – <i>Er macht das Fenster auf.</i><br>I switch off the radio – <i>Ich mache das Radio aus.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Golden Rule 3 – Modal Verbs with Trennbare Verbs</h3><p>When a modal verb is in the sentence, the modal verb is conjugated and the trennbare verb moves to the end in its infinitive form (stays joined together).<br>Example:<br>We switch the radio off – <i>Wir machen das Radio aus.</i><br>We can switch the radio off – <i>Wir können das Radio ausmachen.</i><br>Notice: 'ausmachen' stays together at the end, because 'können' is conjugated.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Summary – Irregular & Trennbare Verbs</h3><p><b>Irregular Verbs:</b> Some change spelling for easier pronunciation (arbeiteten, fanden). Others change their vowels in 'du' and 'er' forms (sehen – siehst/sieht).<br><b>Trennbare Verben – 3 Golden Rules:</b><br><ul><li>Golden Rule 1: Never translate literally – learn meaning as vocabulary.</li><li>Golden Rule 2: In simple tenses, the prefix moves to the end.</li><li>Golden Rule 3: With modal verbs, the prefix stays attached at the end in infinitive form.</li></ul>Practice both simple and modal verb sentences to master their use!</p>"
+    }
+  ]
+}

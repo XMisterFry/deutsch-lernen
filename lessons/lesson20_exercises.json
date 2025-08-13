@@ -1,0 +1,164 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German: I work in Berlin",
+      "answer": "ich arbeite in berlin"
+    },
+    {
+      "question": "Translate to German: He works at the school",
+      "answer": "er arbeitet in der schule"
+    },
+    {
+      "question": "Fill in the blank: Du ___ in München. (arbeitest/arbeitst)",
+      "answer": "arbeitest"
+    },
+    {
+      "question": "Translate to German: We find the book",
+      "answer": "wir finden das buch"
+    },
+    {
+      "question": "Translate to German: They found the keys",
+      "answer": "sie fanden die schlüssel"
+    },
+    {
+      "question": "Translate to German: I eat pizza",
+      "answer": "ich esse pizza"
+    },
+    {
+      "question": "Translate to German: He sleeps at 10",
+      "answer": "er schläft um zehn"
+    },
+    {
+      "question": "Translate to German: You (du) help your friend",
+      "answer": "du hilfst deinem freund"
+    },
+    {
+      "question": "Translate to German: She gives me a pen",
+      "answer": "sie gibt mir einen stift"
+    },
+    {
+      "question": "Choose the correct form for 'fahren' with du: (fährst/fahrt)",
+      "answer": "fährst"
+    },
+    {
+      "question": "Translate to German: You (du) speak German",
+      "answer": "du sprichst deutsch"
+    },
+    {
+      "question": "Translate to German: He meets Anna",
+      "answer": "er trifft anna"
+    },
+    {
+      "question": "Which is correct for 'sehen' with er? (sieht/siehst)",
+      "answer": "sieht"
+    },
+    {
+      "question": "Translate to German: He takes the bus",
+      "answer": "er nimmt den bus"
+    },
+    {
+      "question": "Translate to German: We read the newspaper",
+      "answer": "wir lesen die zeitung"
+    },
+    {
+      "question": "Translate to German: I close the door",
+      "answer": "ich mache die tür zu"
+    },
+    {
+      "question": "Translate to German: He opens the window",
+      "answer": "er macht das fenster auf"
+    },
+    {
+      "question": "Translate to German: We wake up at 7",
+      "answer": "wir wachen um sieben auf"
+    },
+    {
+      "question": "Translate to German: They switch on the light",
+      "answer": "sie machen das licht an"
+    },
+    {
+      "question": "Translate to German: I switch off the TV",
+      "answer": "ich mache den fernseher aus"
+    },
+    {
+      "question": "Translate to German: She calls (anrufen) her mother",
+      "answer": "sie ruft ihre mutter an"
+    },
+    {
+      "question": "Translate to German: We pack up the suitcase (einpacken)",
+      "answer": "wir packen den koffer ein"
+    },
+    {
+      "question": "Translate to German: He listens (zuhören) to music",
+      "answer": "er hört musik zu"
+    },
+    {
+      "question": "Translate to German: You (ihr) come back at 6 (zurückkommen)",
+      "answer": "ihr kommt um sechs zurück"
+    },
+    {
+      "question": "Translate to German: I can open the window",
+      "answer": "ich kann das fenster aufmachen"
+    },
+    {
+      "question": "Translate to German: We can switch off the radio",
+      "answer": "wir können das radio ausmachen"
+    },
+    {
+      "question": "Translate to German: He must wake up at 8",
+      "answer": "er muss um acht aufwachen"
+    },
+    {
+      "question": "Translate to German: I would like to call my friend",
+      "answer": "ich möchte meinen freund anrufen"
+    },
+    {
+      "question": "Translate to German: We must close the door",
+      "answer": "wir müssen die tür zumachen"
+    },
+    {
+      "question": "Translate to German: She can pack the suitcase",
+      "answer": "sie kann den koffer einpacken"
+    },
+    {
+      "question": "Translate to German: I can come back tomorrow",
+      "answer": "ich kann morgen zurückkommen"
+    },
+    {
+      "question": "Translate to German: They would like to listen to music",
+      "answer": "sie möchten musik zuhören"
+    },
+    {
+      "question": "Translate to German: You must switch on the light",
+      "answer": "du musst das licht anmachen"
+    },
+    {
+      "question": "Translate to German: We can wake up early",
+      "answer": "wir können früh aufwachen"
+    },
+    {
+      "question": "Translate to German: He can help his friend",
+      "answer": "er kann seinem freund helfen"
+    },
+    {
+      "question": "Fill in the blank: anmachen = to ___ ___",
+      "answer": "switch on"
+    },
+    {
+      "question": "Fill in the blank: ausmachen = to ___ ___",
+      "answer": "switch off"
+    },
+    {
+      "question": "Fill in the blank: aufmachen = to ___",
+      "answer": "open"
+    },
+    {
+      "question": "Fill in the blank: zumachen = to ___",
+      "answer": "close"
+    },
+    {
+      "question": "Fill in the blank: aufwachen = to ___ ___",
+      "answer": "wake up"
+    }
+  ]
+}
