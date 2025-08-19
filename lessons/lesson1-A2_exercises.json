@@ -1,0 +1,64 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German: I drink tea and you drink coffee",
+      "answer": "ich trinke tee und du trinkst kaffee"
+    },
+    {
+      "question": "Translate to German: He eats pizza and she eats pasta",
+      "answer": "er isst pizza und sie isst pasta"
+    },
+    {
+      "question": "Translate to German: We play football or we play tennis",
+      "answer": "wir spielen fußball oder wir spielen tennis"
+    },
+    {
+      "question": "Translate to German: I read a book but I write a letter",
+      "answer": "ich lese ein buch aber ich schreibe einen brief"
+    },
+    {
+      "question": "Translate to German: She speaks German and I speak English",
+      "answer": "sie spricht deutsch und ich spreche englisch"
+    },
+    {
+      "question": "Translate to German: I eat bread because I am hungry",
+      "answer": "ich esse brot weil ich hungrig bin"
+    },
+    {
+      "question": "Translate to German: He drinks water because he is thirsty",
+      "answer": "er trinkt wasser weil er durstig ist"
+    },
+    {
+      "question": "Translate to German: I play football even though I am tired",
+      "answer": "ich spiele fußball obwohl ich müde bin"
+    },
+    {
+      "question": "Translate to German: She goes to school even though she is sick",
+      "answer": "sie geht zur schule obwohl sie krank ist"
+    },
+    {
+      "question": "Translate to German: I play guitar when I have time",
+      "answer": "ich spiele gitarre wenn ich zeit habe"
+    },
+    {
+      "question": "Translate to German: We eat ice cream when it is warm",
+      "answer": "wir essen eis wenn es warm ist"
+    },
+    {
+      "question": "Translate to German: I learn German because I want to work in Germany",
+      "answer": "ich lerne deutsch weil ich in deutschland arbeiten will"
+    },
+    {
+      "question": "Translate to German: They play football because they can play well",
+      "answer": "sie spielen fußball weil sie gut spielen können"
+    },
+    {
+      "question": "Translate to German: I drink tea even though I like coffee",
+      "answer": "ich trinke tee obwohl ich kaffee mag"
+    },
+    {
+      "question": "Translate to German: I stay at home when I must learn",
+      "answer": "ich bleibe zu hause wenn ich lernen muss"
+    }
+  ]
+}

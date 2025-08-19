@@ -1,0 +1,24 @@
+{
+  "slides": [
+    {
+      "type": "text",
+      "content": "<h3>Lesson 1 (A2) – Conjunctions</h3><p>Conjunctions are words that connect sentences or ideas, such as 'and', 'or', 'but', 'because'.<br>Example in English: <i>I eat pizza because I like pizza.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>3 Simple Conjunctions</h3><p>In German, the 3 most common simple conjunctions are:<ul><li><b>und</b> – and</li><li><b>oder</b> – or</li><li><b>aber</b> – but</li></ul>When using simple conjunctions, the sentence structure does not change, the words are just connected.<br>Examples:<br><i>Ich trinke Tee und du trinkst Tee.</i><br><i>Ich esse Pizza und er isst Pizza.</i><br><i>Ich liebe Tee aber ich trinke Kaffee.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Verb Movers – Weil, Obwohl, Wenn</h3><p>Most conjunctions in German affect the sentence structure. We will call them <b>Verb Movers</b>, because they push the verb to the end of the second clause.<br>The 3 Verb Movers are:<ul><li><b>weil</b> – because</li><li><b>obwohl</b> – even though</li><li><b>wenn</b> – if/when</li></ul><b>Golden Rule for Verb Movers:</b><br>1. The first part of the sentence does not change.<br>2. In the second part, the conjugated verb goes to the end.<br><br>Examples:<br>I drink tea because I love tea – <i>Ich trinke Tee weil ich Tee liebe.</i><br>I play cricket because I love cricket – <i>Ich spiele Cricket weil ich Cricket liebe.</i><br>I play cricket even though I love tennis – <i>Ich spiele Cricket obwohl ich Tennis liebe.</i><br>I play cricket when I have a ball – <i>Ich spiele Cricket wenn ich einen Ball habe.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Conjunctions with Modal Verbs</h3><p>Conjunctions are often used with modal verbs. The rules remain the same:<br>– First sentence stays the same.<br>– Conjugated verb in the second sentence moves to the end.<br><br>Examples:<br>I love cricket because I can play cricket – <i>Ich liebe Cricket weil ich Cricket spielen kann.</i><br>I eat pasta even though I want to eat pizza – <i>Ich esse Pasta obwohl ich Pizza essen will.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Summary</h3><p><b>Simple Conjunctions:</b> und, oder, aber (no sentence structure change).<br><b>Verb Movers:</b> weil, obwohl, wenn (verb in the second part moves to the end).<br><b>Golden Rule:</b> First sentence unchanged, second sentence verb goes to the end.</p>"
+    }
+  ]
+}
