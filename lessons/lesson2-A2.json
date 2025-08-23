@@ -1,0 +1,28 @@
+{
+  "slides": [
+    {
+      "type": "text",
+      "content": "<h3>Revision – Lesson 1 Conjunctions</h3><p>Conjunctions are words that join two sentences, like 'and', 'or', 'because'.<br><b>Two types we studied:</b><ul><li><b>Simple conjunctions:</b> und (and), oder (or), aber (but). They do not change sentence structure.<br>Example: <i>Ich esse Brot und ich trinke Tee.</i></li><li><b>Verb movers:</b> weil (because), obwohl (even though), wenn (if/when). They push the conjugating verb to the end in the second part of the sentence.<br>Example: <i>Ich esse Pizza weil ich Pizza liebe.</i></li></ul></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Indirect Speech – New Conjunctions</h3><p>Now we learn 3 new conjunctions, used in indirect speech:<ul><li><b>dass</b> – that</li><li><b>ob</b> – if/whether</li><li><b>W-Fragen</b> – question words (wo, wann, warum, wie...).</li></ul>All of these are verb pushers, meaning the conjugating verb moves to the end.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Examples with 'dass'</h3><p>English: I think that German is easy.<br>German: <i>Ich denke, dass Deutsch einfach ist.</i><br>Notice: <i>ist</i> moved to the end after 'dass'.<br><br>Without 'dass' it would have been: <i>Deutsch ist einfach.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Examples with 'ob'</h3><p>English: I want to ask whether German is easy.<br>German: <i>Ich will fragen, ob Deutsch einfach ist.</i><br>'ist' moves to the end since 'ob' is a verb pusher.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Examples with W-Fragen</h3><p>English: I want to ask where Kedar is.<br>German: <i>Ich will fragen wo Kedar ist.</i><br>English: I want to know when she comes.<br>German: <i>Ich will wissen wann sie kommt.</i><br>Note: W-question words stay the same, the verb moves to the end.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Summary</h3><p><b>Simple conjunctions:</b> und, oder, aber (no structure change).<br><b>Verb movers:</b> weil, obwohl, wenn (move the verb to end).<br><b>Indirect speech conjunctions:</b> dass (that), ob (if/whether), W-Fragen (wo, wann, warum, wie). These also push the verb to the end.<br><br><b>Golden Rule for verb pushers:</b> 1) First sentence part remains same. 2) In second part, the conjugating verb goes to the end.</p>"
+    }
+  ]
+}
