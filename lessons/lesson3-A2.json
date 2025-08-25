@@ -1,0 +1,32 @@
+{
+  "slides": [
+   {
+  "type": "text",
+  "content": "<h3>Revision – Indirect Speech</h3><p>Let's revise some examples from Lesson 2.<br>I learn German because I want to learn German – <i>Ich lerne Deutsch weil ich Deutsch lernen will.</i><br>He plays tennis even though he wants to play cricket – <i>Er spielt Tennis obwohl er Cricket spielen will.</i><br>I think we should eat pizza – <i>Ich denke dass wir Pizza essen sollen.</i><br>I want to ask if Ankit is in Munich – <i>Ich will fragen ob Ankit in München ist.</i><br>I want to know where Ankita is – <i>Ich will wissen wo Ankita ist.</i></p>"
+},
+    {
+      "type": "text",
+      "content": "<h3>Comparative Degrees</h3><p>In German, adjectives change for comparisons in a special way.<br>In English: cheap → cheaper → cheapest.<br>In German: billig → billiger → am billigsten.<br><b>Formula:</b><br>Comparative: adjective + er (billig → billiger)<br>Superlative: am + adjective + sten (billig → am billigsten).</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Comparatives in Sentences</h3><p>How to use them in sentences:<br>1. 'As ... as' → so ... wie<br>Coke is as cheap as Pepsi → <i>Coke ist so billig wie Pepsi.</i><br><br>2. 'Comparative ... than' → comparative + als<br>Coke is cheaper than Pepsi → <i>Coke ist billiger als Pepsi.</i><br><br>3. Superlative → am + adjective + sten<br>Coke is cheapest → <i>Coke ist am billigsten.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>More Examples</h3><p>Tea is as tasty as coffee → <i>Tee ist so lecker wie Kaffee.</i><br>Tea is tastier than coffee → <i>Tee ist leckerer als Kaffee.</i><br>Tea is tastiest → <i>Tee ist am leckersten.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Important Adjectives to Remember</h3><table><tr><th>English</th><th>Deutsch</th><th>Comparative</th><th>Superlative</th></tr><tr><td>old</td><td>alt</td><td>älter</td><td>am ältesten</td></tr><tr><td>long</td><td>lang</td><td>länger</td><td>am längsten</td></tr><tr><td>weak</td><td>schwach</td><td>schwächer</td><td>am schwächsten</td></tr><tr><td>smart</td><td>klug</td><td>klüger</td><td>am klügsten</td></tr><tr><td>tall</td><td>groß</td><td>größer</td><td>am größten</td></tr><tr><td>cold</td><td>kalt</td><td>kälter</td><td>am kältesten</td></tr><tr><td>strong</td><td>stark</td><td>stärker</td><td>am stärksten</td></tr><tr><td>stupid</td><td>dumm</td><td>dümmer</td><td>am dümmsten</td></tr><tr><td>poor</td><td>arm</td><td>ärmer</td><td>am ärmsten</td></tr><tr><td>dark</td><td>dunkel</td><td>dunkler</td><td>am dunkelsten</td></tr><tr><td>expensive</td><td>teuer</td><td>teurer</td><td>am teuersten</td></tr><tr><td>high</td><td>hoch</td><td>höher</td><td>am höchsten</td></tr><tr><td>near</td><td>nah</td><td>näher</td><td>am nächsten</td></tr></table>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Irregular Comparatives</h3><p>Just like in English (good → better → best), some German adjectives don’t follow the normal rules:<br><ul><li>gut → besser → am besten</li><li>viel → mehr → am meisten</li></ul>We will meet more irregular forms as we continue learning.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Summary</h3><p><b>Formulas:</b><br>Comparative: adjective + er<br>Superlative: am + adjective + sten<br><b>Sentence structures:</b><br>– 'As ... as' = so ... wie<br>– 'Comparative than' = comparative + als<br>– Superlative = am + adjective + sten<br>Some adjectives are irregular (gut → besser → am besten).</p>"
+    }
+  ]
+}

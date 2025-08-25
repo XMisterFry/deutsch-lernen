@@ -1,0 +1,104 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German: Ankit is smarter than Amit",
+      "answer": "ankit ist klüger als amit"
+    },
+    {
+      "question": "Translate to German: Ankita is strongest",
+      "answer": "ankita ist am stärksten"
+    },
+    {
+      "question": "Translate to German: Pepsi is as costly as Coke",
+      "answer": "pepsi ist so teuer wie coke"
+    },
+    {
+      "question": "Translate to German: Munich is colder than Berlin",
+      "answer": "münchen ist kälter als berlin"
+    },
+    {
+      "question": "Translate to German: Berlin is as big as Paris",
+      "answer": "berlin ist so groß wie paris"
+    },
+    {
+      "question": "Translate to German: Cricket is better than tennis",
+      "answer": "cricket ist besser als tennis"
+    },
+    {
+      "question": "Translate to German: Cricket is the best",
+      "answer": "cricket ist am besten"
+    },
+    {
+      "question": "Translate to German: This book is cheaper than that book",
+      "answer": "dieses buch ist billiger als das buch"
+    },
+    {
+      "question": "Translate to German: Tea is tastier than coffee",
+      "answer": "tee ist leckerer als kaffee"
+    },
+    {
+      "question": "Translate to German: Tea is as tasty as juice",
+      "answer": "tee ist so lecker wie saft"
+    },
+    {
+      "question": "Translate to German: My father is older than my mother",
+      "answer": "mein vater ist älter als meine mutter"
+    },
+    {
+      "question": "Translate to German: English is easier than German",
+      "answer": "englisch ist einfacher als deutsch"
+    },
+    {
+      "question": "Translate to German: This room is darker than that room",
+      "answer": "dieses zimmer ist dunkler als das zimmer"
+    },
+    {
+      "question": "Translate to German: He is the tallest in the class",
+      "answer": "er ist am größten in der klasse"
+    },
+    {
+      "question": "Translate to German: Football is more fun than basketball",
+      "answer": "fußball macht mehr spaß als basketball"
+    },
+    {
+      "question": "Translate to German: Ice cream is the most tasty",
+      "answer": "eis ist am leckersten"
+    },
+    {
+      "question": "Translate to German: My house is near but your house is nearer",
+      "answer": "mein haus ist nah aber dein haus ist näher"
+    },
+    {
+      "question": "Translate to German: This chair is more expensive than that chair",
+      "answer": "dieser stuhl ist teurer als jener stuhl"
+    },
+    {
+      "question": "Translate to German: He is the poorest man",
+      "answer": "er ist am ärmsten"
+    },
+    {
+      "question": "Translate to German: Today is colder than yesterday",
+      "answer": "heute ist kälter als gestern"
+    },
+    {
+      "question": "Translate to German: This boy is dumber than that boy",
+      "answer": "dieser junge ist dümmer als jener junge"
+    },
+    {
+      "question": "Translate to German: Pizza is more expensive than bread",
+      "answer": "pizza ist teurer als brot"
+    },
+    {
+      "question": "Translate to German: Milk is as healthy as juice",
+      "answer": "milch ist so gesund wie saft"
+    },
+    {
+      "question": "Translate to German: This road is longer than that road",
+      "answer": "diese straße ist länger als jene straße"
+    },
+    {
+      "question": "Translate to German: The tower is the highest",
+      "answer": "der turm ist am höchsten"
+    }
+  ]
+}

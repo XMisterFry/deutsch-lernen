@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Deutsch Lernen</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
+
 <body>
   <header>
     Deutsch Lernen
@@ -13,14 +15,14 @@
   <div class="topdiv">
     <button onclick="goHome()">🏠 Home</button>
     <a style="color: black;" href="user-guide.html">How to use this App?</a>
-    
+
   </div>
-  
+
   <div class="content">
     <div id="dailyWords" class="daily-words-box">
-  <h2>📚 5 Words of the Day</h2>
-  <div id="wordLine"></div>
-</div>
+      <h2>📚 5 Words of the Day</h2>
+      <div id="wordLine"></div>
+    </div>
     <!-- Dropdown stays visible at top -->
     <div class="lesson-selector">
       <label for="lessonSelect">Choose a Lesson:</label>
@@ -43,25 +45,27 @@
         <option value="15">Lesson 15: A1 Prepositions Part 2 (Wechsel)</option>
         <option value="16">Lesson 16: A1 Ich Mich Mir + Common Phrases</option>
         <option value="17">Lesson 17: A1-A2 Past Tense</option>
-         <option value="18">Lesson 18: A1-A2 Perfect Tense</option>
-          <option value="19">Lesson 19: A1-A2 Revision of All Tenses</option>
-          <option value="20">Lesson 20: A1-A2 Irregular Verbs (Trennbare Verbs)</option>
-          <option value="1-A2">Lesson 1-A2: Conjunctions</option>
-          <option value="2-A2">Lesson 2-A2: Indirect Speech</option>
+        <option value="18">Lesson 18: A1-A2 Perfect Tense</option>
+        <option value="19">Lesson 19: A1-A2 Revision of All Tenses</option>
+        <option value="20">Lesson 20: A1-A2 Irregular Verbs (Trennbare Verbs)</option>
+        <option value="1-A2">Lesson 1-A2: Conjunctions</option>
+        <option value="2-A2">Lesson 2-A2: Indirect Speech</option>
+        <option value="3-A2">Lesson 3-A2: Comparative and Superlative Degrees</option>
       </select>
     </div>
 
-   
+
     <h2 style="margin-top: 1rem;">First Learn, then Exercise</h2>
     <div id="lessonDisplay">
-      
+
     </div>
-    
-     <div id="exerciseContainer">
-    
-     </div>
+
+    <div id="exerciseContainer">
+
+    </div>
   </div>
 
   <script src="script.js"></script>
 </body>
+
 </html>
