@@ -1,0 +1,84 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German: The child’s car is red",
+      "answer": "das auto des kindes ist rot"
+    },
+    {
+      "question": "Translate to German: The mother’s car is blue",
+      "answer": "das auto der mutter ist blau"
+    },
+    {
+      "question": "Translate to German: The mother’s pen is black",
+      "answer": "der stift der mutter ist schwarz"
+    },
+    {
+      "question": "Translate to German: The child’s ball is green",
+      "answer": "der ball des kindes ist grün"
+    },
+    {
+      "question": "Translate to German: The father’s house is big",
+      "answer": "das haus des vaters ist groß"
+    },
+    {
+      "question": "Translate to German: The teacher’s book is old",
+      "answer": "das buch des lehrers ist alt"
+    },
+    {
+      "question": "Translate to German: The student’s room is small",
+      "answer": "das zimmer des schülers ist klein"
+    },
+    {
+      "question": "Translate to German: The man’s dog is white",
+      "answer": "der hund des mannes ist weiß"
+    },
+    {
+      "question": "Translate to German: The woman’s cat is gray",
+      "answer": "die katze der frau ist grau"
+    },
+    {
+      "question": "Translate to German: The boy’s ball is blue",
+      "answer": "der ball des jungen ist blau"
+    },
+    {
+      "question": "Translate to German: The girl’s doll is beautiful",
+      "answer": "die puppe des mädchens ist schön"
+    },
+    {
+      "question": "Translate to German: Hasan’s car is black",
+      "answer": "das ist hasans auto"
+    },
+    {
+      "question": "Translate to German: Ankit’s book is new",
+      "answer": "das buch ankits ist neu"
+    },
+    {
+      "question": "Translate to German: The father’s pen is blue",
+      "answer": "der stift des vaters ist blau"
+    },
+    {
+      "question": "Translate to German: The teacher’s table is brown",
+      "answer": "der tisch des lehrers ist braun"
+    },
+    {
+      "question": "Translate to German: The child’s school is near",
+      "answer": "die schule des kindes ist nah"
+    },
+    {
+      "question": "Translate to German: The brother’s ball is big",
+      "answer": "der ball des bruders ist groß"
+    },
+    {
+      "question": "Translate to German: The sister’s book is expensive",
+      "answer": "das buch der schwester ist teuer"
+    },
+    {
+      "question": "Translate to German: The dog’s house is small",
+      "answer": "das haus des hundes ist klein"
+    },
+    {
+      "question": "Translate to German: The teacher’s car is green",
+      "answer": "das auto des lehrers ist grün"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slides": [
+    {
+      "type": "text",
+      "content": "<h3>Revision – Nominative, Akkusativ, Dativ</h3><p>We already studied 3 cases in A1:<br><ul><li><b>Nominative</b> – subject (Who/What does it?)</li><li><b>Akkusativ</b> – direct object or after prepositions like 'für', 'ohne', 'bis'.</li><li><b>Dativ</b> – indirect object or after prepositions like 'mit', 'von', 'zu', 'nach'.</li></ul></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Case Tables</h3><table><tr><th>Case</th><th>Masculine</th><th>Feminine</th><th>Neuter</th><th>Plural</th></tr><tr><td>Nominative</td><td>der</td><td>die</td><td>das</td><td>die</td></tr><tr><td>Akkusativ</td><td>den</td><td>die</td><td>das</td><td>die</td></tr><tr><td>Dativ</td><td>dem</td><td>der</td><td>dem</td><td>den</td></tr></table><br><table><tr><th>Case</th><th>Masculine</th><th>Feminine</th><th>Neuter</th><th>Plural</th></tr><tr><td>Nominative</td><td>ein</td><td>eine</td><td>ein</td><td>eine</td></tr><tr><td>Akkusativ</td><td>einen</td><td>eine</td><td>ein</td><td>eine</td></tr><tr><td>Dativ</td><td>einem</td><td>einer</td><td>einem</td><td>einen</td></tr></table>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Possessive Pronouns</h3><p>We treat possessive pronouns (mein, dein, sein, ihr, unser, ihr, Ihr) just like 'ein'.<br>Examples:<br>– Er kommt mit <i>seinem Auto</i>. (He comes with his car)<br>– Wir lieben <i>unseren Vater</i>. (We love our father)<br>– Ich koche für <i>meine Mutter</i>. (I cook for my mother)<br>– Sein Vater liebt <i>seinen Sohn</i>. (His father loves his son)</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Introduction – Genitiv Case</h3><p><b>Nominative:</b> identifies subject.<br><b>Akkusativ:</b> direct object.<br><b>Dativ:</b> indirect object.<br><b>Genitiv:</b> answers 'whose?' = <i>wessen?</i> in German.<br>Example: Wessen Auto ist das? (Whose car is this?)</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Genitiv Concept 1 – Using Possessive Pronouns</h3><p>If the answer is with 'mein/dein/sein/unser' → we already know this.<br>Example:<br><i>Das ist mein Auto.</i> (This is my car)</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Genitiv Concept 2 – Using Proper Nouns</h3><p>When possession is shown with a proper name, we add <b>-s</b> just like in English, but without an apostrophe.<br>Example:<br>It is Hasan's car → <i>Das ist Hasans Auto.</i></p>"
+    },
+   {
+      "type": "text",
+      "content": "<h3>Genitiv Concept 3 – Using Common Nouns</h3><p>This is the real Genitiv case. Add a 4th row in the article table:<br><table><tr><th>Case</th><th>Masculine</th><th>Feminine</th><th>Neuter</th><th>Plural</th></tr><tr><td>Genitiv</td><td>des</td><td>der</td><td>des</td><td>der</td></tr></table><br>For 'ein/eine':<br><table><tr><th>Case</th><th>Masculine</th><th>Feminine</th><th>Neuter</th><th>Plural</th></tr><tr><td>Genitiv</td><td>eines</td><td>einer</td><td>eines</td><td>einer</td></tr></table><br><b>Rule 1:</b> For masculine/neuter nouns after 'des' or 'eines', add <b>-s/-es</b> to the noun.<br>No fixed rule: Vater → Vaters, Kind → Kindes.<br><b>Rule 2:</b> German puts the possession *after* the subject.<br><b>Steps for Genitiv sentences:</b><br>1. First form the main sentence.<br>2. Add the 'whose' noun after the subject in Genitiv.<br>3. Remember s/es endings for masculine/neuter.<br><i>Tour de France</i> style: First thing, then possessor after.</p><br>The child's car is red:<br>First: The car is red → <i>Das Auto ist rot.</i><br>Add Genitiv: <i>Das Auto des Kindes ist rot.</i><br>Examples:<br>The mother's car is red → <i>Das Auto der Mutter ist rot.</i><br>The mother's pen is red → <i>Der Stift der Mutter ist rot.</i><br>The child's ball is blue → <i>Der Ball des Kindes ist blau.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Summary of Genitiv</h3><p>Genitiv answers: <b>whose?</b> (wessen).<br>Ways to show possession:<br><ol><li>Possessive pronouns: mein, dein, sein, unser ...</li><li>Proper nouns: add -s (Hasans Auto).</li><li>Common nouns: des/der + noun(-s/-es) → Das Auto des Kindes.</li></ol><br><b>Steps for Genitiv sentences:</b><br>1. First form the main sentence.<br>2. Add the 'whose' noun after the subject in Genitiv.<br>3. Remember s/es endings for masculine/neuter.<br><i>Tour de France</i> style: First thing, then possessor after.</p>"
+    }
+  ]
+}
