@@ -1,0 +1,36 @@
+{
+  "slides": [
+    {
+      "type": "text",
+      "content": "<h3>Revision – Genitiv Case</h3><p>1. We added a 4th line to both the definite and indefinite article tables.<br><b>Definite Articles</b>:<br>der – die – das – die<br>den – die – das – die<br>dem – der – dem – den<br><b>des – der – des – der</b><br><br><b>Indefinite Articles</b>:<br>ein – eine – ein – eine<br>einen – eine – ein – eine<br>einem – einer – einem – einen<br><b>eines – einer – eines – einer</b><br><br>That 4th line is the <b>Genitiv case</b>.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Genitiv – s or es Rule</h3><p>In Genitiv, if the noun is masculine or neuter, add <b>-s</b> or <b>-es</b> depending on pronunciation.<br>Examples:<br><i>des Vaters</i><br><i>des Kindes</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>'Tour de France' Rule</h3><p>In English, we say: The man's car is red.<br>Literally in German we say: The car of the man is red.<br><i>Das Auto des Mannes ist rot.</i><br><br>This is the <b>Tour de France rule</b>: the possessed object comes first, the possessor comes after in Genitiv form.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Making Genitiv Sentences</h3><p>Always follow these steps:<br>1. Make the simple sentence first.<br>2. Add the Genitiv part (whose?) after the subject.<br><br>Examples:<br>The father’s watch is blue →<br><i>Die Uhr ist blau.</i><br>Add Genitiv: <i>Die Uhr des Vaters ist blau.</i><br><br>The child’s ball is red → <i>Der Ball des Kindes ist rot.</i><br>The mother’s pen is blue → <i>Der Stift der Mutter ist blau.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Genitiv with Possessive Pronouns</h3><p>We can replace 'des' or 'der' with possessives (mein, dein, sein, unser).<br>Example:<br>My father’s watch is red →<br><i>Die Uhr ist rot.</i><br>Add Genitiv: <i>Die Uhr meines Vaters ist rot.</i><br><br>Other examples:<br>Your mother’s car is blue → <i>Das Auto deiner Mutter ist blau.</i><br>His child’s pen is red → <i>Der Stift seines Kindes ist rot.</i><br>Our father’s ball is blue → <i>Der Ball unseres Vaters ist blau.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Complex Sentences with Genitiv</h3><p>Step 1: Make the main sentence. Step 2: Apply the other case (Akkusativ/Dativ). Step 3: Add Genitiv.<br><br>Example:<br>I love my father’s pen.<br>Main: Ich liebe den Stift.<br>Add Genitiv: <i>Ich liebe den Stift meines Vaters.</i><br><br>More examples:<br>I play without my father’s ball → <i>Ich spiele ohne den Ball meines Vaters.</i><br>I come after my mother’s car → <i>Ich komme nach dem Auto meiner Mutter.</i><br>He loves his child’s watch → <i>Er liebt die Uhr seines Kindes.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Genitiv with Modal Verbs</h3><p>Steps remain the same: Conjugate modal verb, main verb moves to the end, apply Genitiv after object using Tour de France rule.<br><br>Example:<br>I can play with my mother’s pen.<br>Main without Genitiv: <i>Ich kann mit dem Stift spielen.</i><br>Add Genitiv: <i>Ich kann mit dem Stift meiner Mutter spielen.</i><br><br>Another example:<br>I want to come after my father’s car.<br>Main: <i>Ich will nach dem Auto kommen.</i><brAdd Genitiv: <i>Ich will nach dem Auto meines Vaters kommen.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Summary – Genitiv Part 2</h3><p><ul><li><b>Articles</b>: Definite and indefinite both have a 4th line (des/der and eines/einer).</li><li><b>s/es Rule</b>: Masculine/neuter nouns take -s/-es endings in Genitiv.</li><li><b>Tour de France Rule</b>: Possessor comes after, like 'car of the man'.</li><li><b>How to Build</b>: First make simple sentence, then add Genitiv.</li><li><b>Possessives</b>: mein, dein, sein, unser act same as 'ein'.</li><li><b>Complex Sentences</b>: Combine with Akkusativ/Dativ objects.</li><li><b>With Modal Verbs</b>: Modal is conjugated, main verb to end, Genitiv after the main object.</li></ul></p>"
+    }
+  ]
+}
