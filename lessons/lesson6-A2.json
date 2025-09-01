@@ -1,0 +1,32 @@
+{
+  "slides": [
+    {
+      "type": "text",
+      "content": "<h3>Revision – Genitiv with Complex Sentences</h3><p>Let's translate these to review all concepts so far:<br>1. We play with our father's watch<br>2. My father's car comes with your mother's car<br>3. He comes without his child's ball</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Answers – Genitiv Revision</h3><p>Remember: Genitiv is always easier if you ignore the 'whose' part first and make the simple sentence, then add the possessor (Tour de France rule).<br><br>1. Main: We play with the watch.<br>Add Genitiv: <i>Wir spielen mit der Uhr unseres Vaters.</i><br><br>2. Main: My father's car comes with your mother's car.<br><i>Das Auto meines Vaters kommt mit dem Auto deiner Mutter.</i><br><br>3. Main: He comes without the ball.<br>Add Genitiv: <i>Er kommt ohne den Ball seines Kindes.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Imperativ – Commands in German</h3><p>We've learned how to make polite requests. Now, we learn how to give commands.<br><b>Formal commands</b> (Sie-form) are just like polite requests:<br><ul><li>Kommen Sie hier! (Come here!)</li><li>Essen Sie Pasta!</li><li>Trinken Sie Tee!</li></ul></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Informal Commands – du/ihr</h3><p>For <b>du</b>-commands (informal, to one person), take the 'du' form and remove the ending <b>-st</b>:<br><ul><li>Trink Tee! (Drink tea!)</li><li>Lern Deutsch! (Learn German!)</li><li>Komm hier! (Come here!)</li><li>Hilf mir! (Help me!)</li><li>Koch Pizza! (Cook pizza!)</li></ul></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Irregular Verbs – Imperativ</h3><p>Some verbs change in the du-form. If the verb stem itself changes, only remove the 't' or 'st' ending:<br><ul><li>Lies Harry Potter! (Read Harry Potter!)</li><li>Iss Pizza! (Eat pizza!)</li></ul>Don't remove 's' if part of the original verb stem.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>German Commands: Rude to Most Polite</h3><p><ul><li>Trink Tee! (most direct)</li><li>Trinken Sie Tee!</li><li>Trinken Sie Tee, bitte!</li><li>Können Sie Tee trinken?</li><li>Könnten Sie Tee trinken? (could you – most polite)</li></ul></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Summary</h3><p><ul><li>Formal command: 'Sie' form + verb (Trinken Sie Tee!)</li><li>Informal du-command: remove -st ending (Trink Tee!)</li><li>For irregular verbs, watch for changes in the stem.</li><li>Politeness: Direct command < others < with 'bitte' < 'können/könnten' forms.</li><li>With Genitiv: Build the simple sentence first, then add the possessor after the object (Tour de France rule).</li></ul></p>"
+    }
+  ]
+}

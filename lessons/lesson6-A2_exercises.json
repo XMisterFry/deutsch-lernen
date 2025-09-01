@@ -1,0 +1,64 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German (formal): Please come here.",
+      "answer": "kommen sie bitte hier"
+    },
+    {
+      "question": "Translate to German (formal): Drink tea!",
+      "answer": "trinken sie tee"
+    },
+    {
+      "question": "Translate to German (formal): Eat pasta!",
+      "answer": "essen sie pasta"
+    },
+    {
+      "question": "Translate to German (formal): Write the letter!",
+      "answer": "schreiben sie den brief"
+    },
+    {
+      "question": "Translate to German (formal): Open the window!",
+      "answer": "öffnen sie das fenster"
+    },
+    {
+      "question": "Translate to German (informal du): Drink tea!",
+      "answer": "trink tee"
+    },
+    {
+      "question": "Translate to German (informal du): Learn German!",
+      "answer": "lern deutsch"
+    },
+    {
+      "question": "Translate to German (informal du): Come here!",
+      "answer": "komm hier"
+    },
+    {
+      "question": "Translate to German (informal du): Cook pizza!",
+      "answer": "koch pizza"
+    },
+    {
+      "question": "Translate to German (informal du): Help me!",
+      "answer": "hilf mir"
+    },
+    {
+      "question": "Translate to German (informal du, irregular): Read the book!",
+      "answer": "lies das buch"
+    },
+    {
+      "question": "Translate to German (informal du, irregular): Eat pizza!",
+      "answer": "iss pizza"
+    },
+    {
+      "question": "Translate to German (informal du, irregular): Give me the pen!",
+      "answer": "gib mir den stift"
+    },
+    {
+      "question": "Translate to German (informal du, irregular): Take the ball!",
+      "answer": "nimm den ball"
+    },
+    {
+      "question": "Translate to German (informal du, irregular): Sleep now!",
+      "answer": "schlaf jetzt"
+    }
+  ]
+}
