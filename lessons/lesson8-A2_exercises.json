@@ -1,0 +1,64 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German: Pizza is eaten.",
+      "answer": "pizza wird gegessen"
+    },
+    {
+      "question": "Translate to German: The book is read.",
+      "answer": "das buch wird gelesen"
+    },
+    {
+      "question": "Translate to German: The car is washed.",
+      "answer": "das auto wird gewaschen"
+    },
+    {
+      "question": "Translate to German: Tea is drunk.",
+      "answer": "tee wird getrunken"
+    },
+    {
+      "question": "Translate to German: Cricket is played.",
+      "answer": "cricket wird gespielt"
+    },
+    {
+      "question": "Translate to German: The cake is baked by my mother.",
+      "answer": "der kuchen wird von meiner mutter gebacken"
+    },
+    {
+      "question": "Translate to German: The letter is written by Hasan.",
+      "answer": "der brief wird von hasan geschrieben"
+    },
+    {
+      "question": "Translate to German: The homework is done by Ankit.",
+      "answer": "die hausaufgabe wird von ankit gemacht"
+    },
+    {
+      "question": "Translate to German: The window is opened by the child.",
+      "answer": "das fenster wird von dem kind geöffnet"
+    },
+    {
+      "question": "Translate to German: The ball is found by the boy.",
+      "answer": "der ball wird von dem jungen gefunden"
+    },
+    {
+      "question": "Translate to German: Pizza can be eaten.",
+      "answer": "pizza kann gegessen werden"
+    },
+    {
+      "question": "Translate to German: The window must be opened.",
+      "answer": "das fenster muss geöffnet werden"
+    },
+    {
+      "question": "Translate to German: German should be learned.",
+      "answer": "deutsch soll gelernt werden"
+    },
+    {
+      "question": "Translate to German: Cricket can be played.",
+      "answer": "cricket kann gespielt werden"
+    },
+    {
+      "question": "Translate to German: Tea must be drunk.",
+      "answer": "tee muss getrunken werden"
+    }
+  ]
+}

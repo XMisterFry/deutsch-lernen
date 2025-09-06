@@ -1,0 +1,24 @@
+{
+  "slides": [
+    {
+      "type": "text",
+      "content": "<h3>Passive Voice in German</h3><p>In German, passive voice is rarely used in everyday speech, but it's common in official or formal situations.<br><b>What is passive voice?</b><br>When the action is more important than the person doing it.<br>Examples:<br>I play cricket → Cricket is played.<br>I eat pizza → Pizza will be eaten.<br>In English, passive voice uses 'to be' and the past participle:<br>Pizza is eaten.<br>Pepsi is drunk.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Passive Voice Structure in German</h3><p>In German, the English 'to be' is replaced with <b>werden</b> (not <i>sein</i>!) plus the past participle.<br>Examples:<br>It is done – <i>Es wird gemacht.</i><br>Pizza is eaten – <i>Pizza wird gegessen.</i><br>Pepsi is drunk – <i>Pepsi wird getrunken.</i><br>Cars are driven – <i>Autos werden gefahren.</i></p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Passive Voice with 'by' (von)</h3><p>In passive sentences, if you mention 'by' to show the doer of the action, use <b>von</b> in German.<br>Examples:<br>Pizza is cooked by Ovi – <i>Pizza wird von Ovi gekocht.</i><br>The book is read by Hasan – <i>Das Buch wird von Hasan gelesen.</i><br>Remember: <b>werden</b> is conjugated, the main verb goes to the end as a participle.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Passive Voice with Modal Verbs</h3><p>When using modal verbs (can, must, should) with the passive:<br><ul><li>Pizza can be eaten – <i>Pizza kann gegessen werden.</i></li><li>Cricket can be played – <i>Cricket kann gespielt werden.</i></li><li>Tea must be drunk – <i>Tee muss getrunken werden.</i></li><li>German should be learned – <i>Deutsch soll gelernt werden.</i></li></ul>The participle and <b>werden</b> always move to the end.</p>"
+    },
+    {
+      "type": "text",
+      "content": "<h3>Summary</h3><p><ul><li>Passive means the action is most important.</li><li>Use <b>werden</b> plus past participle (not <i>sein</i>!).</li><li>Use <b>von</b> for 'by' in passive sentences.</li><li>With modals: Modal is conjugated, past participle + werden at end.</li><li>Examples: Pizza wird gegessen. Tee muss getrunken werden. Das Buch wird von Hasan gelesen.</li></ul></p>"
+    }
+  ]
+}
