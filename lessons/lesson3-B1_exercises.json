@@ -1,0 +1,66 @@
+{
+  "exercises": [
+    {
+      "question": "Translate to German: Although I want to learn German, I rarely study.",
+      "answer": "obwohl ich deutsch lernen möchte, lerne ich selten"
+    },
+    {
+      "question": "Translate to German: Although I have a cold, I drink beer.",
+      "answer": "obwohl ich erkältung habe, trinke ich bier"
+    },
+    {
+      "question": "Translate to German: Although it is raining, we are playing outside.",
+      "answer": "obwohl es regnet, spielen wir draußen"
+    },
+    {
+      "question": "Translate to German: Although I am tired, I do my homework.",
+      "answer": "obwohl ich müde bin, mache ich meine hausaufgaben"
+    },
+    {
+      "question": "Translate to German: Although I am hungry, I do not eat.",
+      "answer": "obwohl ich hungrig bin, esse ich nicht"
+    },
+
+    {
+      "question": "Translate to German: I am hungry, therefore I eat an apple.",
+      "answer": "ich bin hungrig, deshalb esse ich einen apfel"
+    },
+    {
+      "question": "Translate to German: The weather is nice, therefore I go outside.",
+      "answer": "das wetter ist schön, deshalb gehe ich aus"
+    },
+    {
+      "question": "Translate to German: I am tired, therefore I go to bed.",
+      "answer": "ich bin müde, deshalb gehe ich ins bett"
+    },
+    {
+      "question": "Translate to German: It is cold, therefore I wear a jacket.",
+      "answer": "es ist kalt, deshalb trage ich eine jacke"
+    },
+    {
+      "question": "Translate to German: She has a test, therefore she studies.",
+      "answer": "sie hat eine prüfung, deshalb lernt sie"
+    },
+
+    {
+      "question": "Translate to German: I go out, nevertheless it is raining.",
+      "answer": "ich gehe aus, trotzdem regnet es"
+    },
+    {
+      "question": "Translate to German: I eat an apple, nevertheless I am not hungry.",
+      "answer": "ich esse einen apfel, trotzdem bin ich nicht hungrig"
+    },
+    {
+      "question": "Translate to German: He studies, nevertheless he fails the test.",
+      "answer": "er lernt, trotzdem besteht er die prüfung nicht"
+    },
+    {
+      "question": "Translate to German: She is tired, nevertheless she goes to school.",
+      "answer": "sie ist müde, trotzdem geht sie zur schule"
+    },
+    {
+      "question": "Translate to German: It is late, nevertheless we are watching TV.",
+      "answer": "es ist spät, trotzdem sehen wir fern"
+    }
+  ]
+}
